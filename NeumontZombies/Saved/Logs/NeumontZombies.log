@@ -1505,3 +1505,18 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.26-22.25.36:097][  0]LogViewport: Scene viewport resized to 1832x1393, mode Windowed.
 [2023.08.26-22.25.36:145][  1]LogAutomationController: Ignoring very large delta of 18073176.24 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2023.08.26-22.27.42:596][823]LogDerivedDataCache: C:/Users/Brandon Finney/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.111 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 8351 files in 10099 folders with total size 758 MiB.
+[2023.08.26-22.35.50:422][609]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.08.26-22.35.50:432][609]LogContentBrowser: Creating deferred item: NewFolder
+[2023.08.26-22.35.50:439][610]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.08.26-22.35.52:114][810]LogContentBrowser: Attempting asset rename: NewFolder -> Game
+[2023.08.26-22.35.52:115][810]LogContentBrowser: End creating deferred item NewFolder
+[2023.08.26-22.35.55:176][155]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.08.26-22.35.55:182][155]LogContentBrowser: Creating deferred item: NewFolder
+[2023.08.26-22.35.55:197][157]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.08.26-22.36.02:180][994]LogContentBrowser: Attempting asset rename: NewFolder -> FirstPersonController
+[2023.08.26-22.36.02:181][994]LogContentBrowser: End creating deferred item NewFolder
+[2023.08.26-22.36.05:600][375]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.08.26-22.36.05:614][375]LogContentBrowser: Creating deferred item: NewFolder
+[2023.08.26-22.36.05:621][376]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.08.26-22.36.07:638][617]LogContentBrowser: Attempting asset rename: NewFolder -> AI
+[2023.08.26-22.36.07:639][617]LogContentBrowser: End creating deferred item NewFolder
