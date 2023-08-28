@@ -1382,3 +1382,100 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.28-17.36.44:252][ 28]Cmd: MAP CHECKDEP NOCLEARLOG
 [2023.08.28-17.36.44:252][ 28]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.137ms to complete.
 [2023.08.28-17.36.44:252][ 28]LogFileHelpers: Loading map 'Neumont3rdFloor' took 0.060
+[2023.08.28-17.38.44:708][699]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.28-17.38.45:055][700]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [4999ms] waiting for h/w. InstanceID=1
+[2023.08.28-17.39.41:108][700]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=36020
+[2023.08.28-17.39.41:115][701]LogHttp: Warning: 00000790FA2AD700: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B05BE53C7-4E99-4F87-AABE-33964621BAC0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=cebd143a4a3fbadd31c0aaa4ca25a81e%7C4f64f5e225ef42538ae668fa7e42009a%7C4611a27d-2f72-4c88-bf16-f0b6e3287d2b&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.08.28-17.39.41:115][701]LogHttp: Warning: 00000790FA2AD700: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.08.28-17.39.41:115][701]LogHttp: Warning: 00000790FA2AD700: libcurl info message cache 0 (Found bundle for host: 0x790e9160000 [serially])
+[2023.08.28-17.39.41:115][701]LogHttp: Warning: 00000790FA2AD700: libcurl info message cache 1 (Re-using existing connection #0 with host datarouter.ol.epicgames.com)
+[2023.08.28-17.39.41:115][701]LogHttp: Warning: 00000790FA2AD700: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.204.126.75) port 443 (#0))
+[2023.08.28-17.39.41:115][701]LogHttp: Warning: 00000790FA2AD700: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.08.28-17.39.41:115][701]LogHttp: Warning: 00000790FA2AD700: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2023.08.28-17.39.41:115][701]LogHttp: Warning: 00000790FA2AD700: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2023.08.28-17.39.41:115][701]LogHttp: Warning: 00000790FA2AD700: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.08.28-17.39.41:115][701]LogHttp: Warning: 00000790FA2AD700: libcurl info message cache 7 (Closing connection 0)
+[2023.08.28-17.39.41:115][701]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B05BE53C7-4E99-4F87-AABE-33964621BAC0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=cebd143a4a3fbadd31c0aaa4ca25a81e%7C4f64f5e225ef42538ae668fa7e42009a%7C4611a27d-2f72-4c88-bf16-f0b6e3287d2b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.08.28-17.39.41:820][701]LogUdpMessaging: Display: Added local interface '172.20.240.1' to multicast group '230.0.0.1:6666'
+[2023.08.28-17.39.41:820][701]LogUdpMessaging: Display: Added local interface '172.21.128.1' to multicast group '230.0.0.1:6666'
+[2023.08.28-17.39.41:820][701]LogUdpMessaging: Display: Added local interface '172.21.112.1' to multicast group '230.0.0.1:6666'
+[2023.08.28-17.39.41:820][701]LogUdpMessaging: Display: Added local interface '172.19.48.1' to multicast group '230.0.0.1:6666'
+[2023.08.28-17.39.41:820][701]LogUdpMessaging: Display: Added local interface '10.10.17.57' to multicast group '230.0.0.1:6666'
+[2023.08.28-17.39.41:837][701]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{3b0b3d3a-1c65-41fe-a3ab-c90e1b4442eb}, Name=Headphones (Oculus Virtual Audio Device)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=95.30
+[2023.08.28-17.39.41:837][701]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.08.28-17.39.41:840][701]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.08.28-17.40.22:690][333]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.08.28-17.41.24:405][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.08.28-17.41.24:489][263]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.28-17.41.24:491][263]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2023.08.28-17.41.24:492][263]LightingResults: New page: Lighting Build
+[2023.08.28-17.41.24:492][263]LoadErrors: New page: Loading map: FirstPersonMap.umap
+[2023.08.28-17.41.24:494][263]LogWorld: UWorld::CleanupWorld for Neumont3rdFloor, bSessionEnded=true, bCleanupResources=true
+[2023.08.28-17.41.24:494][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.28-17.41.24:495][263]MapCheck: New page: Map Check
+[2023.08.28-17.41.24:495][263]LightingResults: New page: Lighting Build
+[2023.08.28-17.41.24:505][263]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.28-17.41.24:508][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.08.28-17.41.24:510][263]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.08.28-17.41.24:510][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.28-17.41.24:524][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.08.28-17.41.24:536][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.08.28-17.41.24:548][263]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2023.08.28-17.41.24:548][263]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.28-17.41.24:548][263]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.28-17.41.24:549][263]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.08.28-17.41.24:549][263]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.08.28-17.41.24:549][263]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.08.28-17.41.24:549][263]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.08.28-17.41.24:623][263]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.08.28-17.41.24:623][263]LogWorldPartition: Display: WorldPartition initialize took 74 ms (total: 773 ms)
+[2023.08.28-17.41.24:631][263]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.08.28-17.41.24:644][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.08.28-17.41.24:648][263]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.08.28-17.41.24:648][263]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.479ms to complete.
+[2023.08.28-17.41.24:649][263]LogFileHelpers: Loading map 'FirstPersonMap' took 0.156
+[2023.08.28-17.41.28:188][478]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.28-17.41.28:192][478]LogObjectTools: Deleting 1 worlds: /Game/FirstPerson/Maps/Neumont3rdFloor.Neumont3rdFloor
+[2023.08.28-17.41.28:192][478]LogObjectTools: Currently 3 active worlds: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2023.08.28-17.41.28:204][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.08.28-17.41.29:366][478]LogSlate: Window 'Delete Assets' being destroyed
+[2023.08.28-17.41.29:383][478]LogWorld: UWorld::CleanupWorld for Neumont3rdFloor, bSessionEnded=true, bCleanupResources=true
+[2023.08.28-17.41.29:383][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.28-17.41.29:407][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.08.28-17.41.29:418][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.08.28-17.41.29:430][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.08.28-17.41.48:016][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.08.28-17.41.48:056][705]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.28-17.41.48:058][705]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/Neumont3rdFloor.Neumont3rdFloor
+[2023.08.28-17.41.48:058][705]LightingResults: New page: Lighting Build
+[2023.08.28-17.41.48:058][705]LoadErrors: New page: Loading map: Neumont3rdFloor.umap
+[2023.08.28-17.41.48:059][705]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.08.28-17.41.48:059][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.28-17.41.48:062][705]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.08.28-17.41.48:062][705]MapCheck: New page: Map Check
+[2023.08.28-17.41.48:062][705]LightingResults: New page: Lighting Build
+[2023.08.28-17.41.48:070][705]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.28-17.41.48:072][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.08.28-17.41.48:074][705]LogWorld: UWorld::CleanupWorld for Neumont3rdFloor, bSessionEnded=true, bCleanupResources=true
+[2023.08.28-17.41.48:074][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.28-17.41.48:082][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.08.28-17.41.48:088][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.08.28-17.41.48:093][705]LogAudio: Display: Audio Device (ID: 1) registered with world 'Neumont3rdFloor'.
+[2023.08.28-17.41.48:093][705]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.28-17.41.48:093][705]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.28-17.41.48:094][705]LogAIModule: Creating AISystem for world Neumont3rdFloor
+[2023.08.28-17.41.48:098][705]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.08.28-17.41.48:105][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.08.28-17.41.48:108][705]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.08.28-17.41.48:108][705]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.116ms to complete.
+[2023.08.28-17.41.48:108][705]LogFileHelpers: Loading map 'Neumont3rdFloor' took 0.050
+[2023.08.28-17.41.50:272][927]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.28-17.41.50:329][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.08.28-17.41.50:335][927]LogPackageLocalizationCache: Processed 44 localized package path(s) for 1 prioritized culture(s) in 0.004480 seconds
+[2023.08.28-17.41.50:340][927]LogSerialization: UsePackageTrailer: 'true'
+[2023.08.28-17.41.50:346][927]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.28-17.41.50:348][927]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/Neumont3rdFloorA4BE729B435149F4A68B09881C6C9872.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Maps/Neumont3rdFloor.umap'
+[2023.08.28-17.41.50:356][927]LogFileHelpers: Saving map 'Neumont3rdFloor' took 0.035
+[2023.08.28-17.41.50:364][927]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms
+[2023.08.28-17.41.50:367][927]AssetCheck: New page: Asset Save: Neumont3rdFloor
+[2023.08.28-17.41.50:367][927]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/Neumont3rdFloor.Neumont3rdFloor
