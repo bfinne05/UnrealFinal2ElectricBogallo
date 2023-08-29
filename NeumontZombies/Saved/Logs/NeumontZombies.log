@@ -2007,3 +2007,161 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2023.08.29-16.54.18:713][564]LogFileHelpers: InternalPromptForCheckoutAndSave took 665 ms (total: 9.59 sec)
 [2023.08.29-16.54.18:729][564]AssetCheck: New page: Asset Save: Neumont3rdFloor
 [2023.08.29-16.54.18:729][564]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/Neumont3rdFloor.Neumont3rdFloor
+[2023.08.29-16.57.13:237][222]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.29-16.57.13:244][222]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.29-16.57.13:245][222]PIE: New page: PIE session: Neumont3rdFloor (Aug 29, 2023, 4:57:13 AM)
+[2023.08.29-16.57.13:245][222]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor
+[2023.08.29-16.57.13:277][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030649s)
+[2023.08.29-16.57.13:277][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Neumont3rdFloor.Neumont3rdFloor to /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor.Neumont3rdFloor (0.030812s)
+[2023.08.29-16.57.13:277][222]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.29-16.57.13:277][222]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.29-16.57.13:277][222]LogAIModule: Creating AISystem for world Neumont3rdFloor
+[2023.08.29-16.57.13:278][222]LogPlayLevel: PIE: World Init took: (0.001141s)
+[2023.08.29-16.57.13:298][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.08.29-16.57.13:299][222]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.08.29-16.57.13:299][222]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.29-16.57.13:299][222]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.29-16.57.13:299][222]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.29-16.57.13:299][222]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.29-16.57.13:299][222]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.29-16.57.13:299][222]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.29-16.57.13:299][222]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.29-16.57.13:299][222]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.29-16.57.13:299][222]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.29-16.57.13:299][222]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.29-16.57.13:299][222]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.29-16.57.13:302][222]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.29-16.57.13:325][222]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.08.29-16.57.13:325][222]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.29-16.57.13:325][222]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.29-16.57.13:325][222]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.29-16.57.13:326][222]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.08.29-16.57.13:326][222]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.08.29-16.57.13:327][222]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.08.29-16.57.13:327][222]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.08.29-16.57.13:327][222]LogInit: FAudioDevice initialized with ID 10.
+[2023.08.29-16.57.13:327][222]LogAudio: Display: Audio Device (ID: 10) registered with world 'Neumont3rdFloor'.
+[2023.08.29-16.57.13:328][222]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2023.08.29-16.57.13:330][222]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.08.29-16.57.13:335][222]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor.Neumont3rdFloor up for play (max tick rate 60) at 2023.08.29-10.57.13
+[2023.08.29-16.57.13:336][222]LogWorld: Bringing up level for play took: 0.005603
+[2023.08.29-16.57.13:337][222]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.08.29-16.57.13:340][222]PIE: Server logged in
+[2023.08.29-16.57.13:340][222]PIE: Play in editor total start time 0.097 seconds.
+[2023.08.29-17.03.27:533][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.29-17.03.27:534][457]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor
+[2023.08.29-17.03.27:534][457]LogWorld: UWorld::CleanupWorld for Neumont3rdFloor, bSessionEnded=true, bCleanupResources=true
+[2023.08.29-17.03.27:535][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.29-17.03.27:541][457]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.29-17.03.27:545][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.29-17.03.27:567][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.29-17.03.27:568][457]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2023.08.29-17.03.27:568][457]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.08.29-17.03.27:570][457]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.08.29-17.03.27:582][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.08.29-17.03.27:628][458]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.08.29-17.08.15:139][480]AssetReimport: New page: Outstanding source content changes 5:08:15 AM
+[2023.08.29-17.08.15:207][481]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Audio/Ambience.wav)
+[2023.08.29-17.08.15:451][482]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-17.08.15:495][482]LogAudio: Display: Chunk size for SoundWave /Game/FirstPerson/Audio/Ambience.Ambience: 262144
+[2023.08.29-17.08.15:682][482]LogSavePackage: Moving output files for package: /Game/FirstPerson/Audio/Ambience
+[2023.08.29-17.08.15:682][482]LogSavePackage: Moving '../../../../../../Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/Ambience40420F704E5404412E7E3D85CBF1AC57.tmp' to '../../../../../../Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Audio/Ambience.uasset'
+[2023.08.29-17.08.15:694][482]LogFileHelpers: InternalPromptForCheckoutAndSave took 242 ms (total: 9.84 sec)
+[2023.08.29-17.08.15:716][483]AssetCheck: New page: Asset Save: Ambience
+[2023.08.29-17.08.15:716][483]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/FirstPerson/Audio/Ambience.Ambience
+[2023.08.29-17.08.18:694][652]AssetReimport: Importing new asset /Game/FirstPerson/Audio/Ambience.
+[2023.08.29-17.08.31:289][355]LogContentBrowser: Deferred new asset file creation: Ambience_Cue
+[2023.08.29-17.08.31:298][355]LogContentBrowser: Creating deferred item: Ambience_Cue
+[2023.08.29-17.08.31:311][356]LogContentBrowser: Renaming the item being created (Deferred Item: Ambience_Cue).
+[2023.08.29-17.08.32:728][461]LogContentBrowser: Attempting asset rename: Ambience_Cue -> Ambience_Cue
+[2023.08.29-17.08.32:733][461]LogContentBrowser: End creating deferred item Ambience_Cue
+[2023.08.29-17.08.33:607][525]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/FirstPerson/Audio/Ambience_Cue.Ambience_Cue
+[2023.08.29-17.08.41:801][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.08.29-17.08.41:804][467]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-17.08.41:889][467]LogSavePackage: Moving output files for package: /Game/FirstPerson/Audio/Ambience_Cue
+[2023.08.29-17.08.41:889][467]LogSavePackage: Moving '../../../../../../Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/Ambience_Cue94E5BF31444734E1C1B0138B0735B65C.tmp' to '../../../../../../Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Audio/Ambience_Cue.uasset'
+[2023.08.29-17.08.41:897][467]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 9.93 sec)
+[2023.08.29-17.08.41:901][467]AssetCheck: New page: Asset Save: Ambience_Cue
+[2023.08.29-17.08.41:901][467]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/FirstPerson/Audio/Ambience_Cue.Ambience_Cue
+[2023.08.29-17.09.12:407][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.08.29-17.09.12:409][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-17.09.12:512][ 44]LogSavePackage: Moving output files for package: /Game/FirstPerson/Audio/Ambience_Cue
+[2023.08.29-17.09.12:513][ 44]LogSavePackage: Moving '../../../../../../Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/Ambience_Cue711704D7457F1F7197CE24A15D5C32D5.tmp' to '../../../../../../Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Audio/Ambience_Cue.uasset'
+[2023.08.29-17.09.12:520][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 10.0 sec)
+[2023.08.29-17.09.12:525][ 44]AssetCheck: New page: Asset Save: Ambience_Cue
+[2023.08.29-17.09.12:525][ 44]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/FirstPerson/Audio/Ambience_Cue.Ambience_Cue
+[2023.08.29-17.09.14:445][250]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.08.29-17.09.14:445][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.29-17.09.14:487][250]LogViewport: Scene viewport resized to 1863x829, mode Windowed.
+[2023.08.29-17.09.14:517][251]LogViewport: Scene viewport resized to 1863x818, mode Windowed.
+[2023.08.29-17.09.14:578][252]LogViewport: Scene viewport resized to 1863x795, mode Windowed.
+[2023.08.29-17.09.19:166][583]LogActorFactory: Actor Factory attempting to spawn SoundCue /Game/FirstPerson/Audio/Ambience_Cue.Ambience_Cue
+[2023.08.29-17.09.19:166][583]LogActorFactory: Actor Factory attempting to spawn SoundCue /Game/FirstPerson/Audio/Ambience_Cue.Ambience_Cue
+[2023.08.29-17.09.19:175][583]LogActorFactory: Actor Factory spawned SoundCue /Game/FirstPerson/Audio/Ambience_Cue.Ambience_Cue as actor: AmbientSound /Game/FirstPerson/Maps/Neumont3rdFloor.Neumont3rdFloor:PersistentLevel.AmbientSound_0
+[2023.08.29-17.09.19:176][583]LogActorFactory: Actor Factory spawned SoundCue /Game/FirstPerson/Audio/Ambience_Cue.Ambience_Cue as actor: AmbientSound /Game/FirstPerson/Maps/Neumont3rdFloor.Neumont3rdFloor:PersistentLevel.AmbientSound_0
+[2023.08.29-17.09.19:833][620]LogActorFactory: Actor Factory attempting to spawn SoundCue /Game/FirstPerson/Audio/Ambience_Cue.Ambience_Cue
+[2023.08.29-17.09.19:833][620]LogActorFactory: Actor Factory attempting to spawn SoundCue /Game/FirstPerson/Audio/Ambience_Cue.Ambience_Cue
+[2023.08.29-17.09.19:835][620]LogActorFactory: Actor Factory spawned SoundCue /Game/FirstPerson/Audio/Ambience_Cue.Ambience_Cue as actor: AmbientSound /Game/FirstPerson/Maps/Neumont3rdFloor.Neumont3rdFloor:PersistentLevel.AmbientSound_1
+[2023.08.29-17.09.19:835][620]LogActorFactory: Actor Factory spawned SoundCue /Game/FirstPerson/Audio/Ambience_Cue.Ambience_Cue as actor: AmbientSound /Game/FirstPerson/Maps/Neumont3rdFloor.Neumont3rdFloor:PersistentLevel.AmbientSound_1
+[2023.08.29-17.09.21:173][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.08.29-17.09.21:177][710]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-17.09.21:277][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.08.29-17.09.21:314][710]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.29-17.09.21:315][710]LogSavePackage: Moving '../../../../../../Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/Neumont3rdFloor52D095174242220CD88861BC91AABABF.tmp' to '../../../../../../Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Maps/Neumont3rdFloor.umap'
+[2023.08.29-17.09.21:325][710]LogFileHelpers: Saving map 'Neumont3rdFloor' took 0.068
+[2023.08.29-17.09.21:335][710]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 10.2 sec)
+[2023.08.29-17.09.21:341][710]AssetCheck: New page: Asset Save: Neumont3rdFloor
+[2023.08.29-17.09.21:341][710]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/Neumont3rdFloor.Neumont3rdFloor
+[2023.08.29-17.09.22:340][774]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.29-17.09.22:351][774]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.29-17.09.22:352][774]PIE: New page: PIE session: Neumont3rdFloor (Aug 29, 2023, 5:09:22 AM)
+[2023.08.29-17.09.22:352][774]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor
+[2023.08.29-17.09.22:366][774]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013520s)
+[2023.08.29-17.09.22:366][774]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Neumont3rdFloor.Neumont3rdFloor to /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor.Neumont3rdFloor (0.013714s)
+[2023.08.29-17.09.22:366][774]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.29-17.09.22:367][774]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.29-17.09.22:369][774]LogAIModule: Creating AISystem for world Neumont3rdFloor
+[2023.08.29-17.09.22:369][774]LogPlayLevel: PIE: World Init took: (0.004004s)
+[2023.08.29-17.09.22:392][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.08.29-17.09.22:393][774]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.08.29-17.09.22:393][774]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.29-17.09.22:393][774]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.29-17.09.22:393][774]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.29-17.09.22:393][774]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.29-17.09.22:393][774]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.29-17.09.22:393][774]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.29-17.09.22:393][774]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.29-17.09.22:393][774]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.29-17.09.22:393][774]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.29-17.09.22:393][774]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.29-17.09.22:393][774]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.29-17.09.22:396][774]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.29-17.09.22:423][774]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.08.29-17.09.22:423][774]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.29-17.09.22:424][774]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.29-17.09.22:424][774]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.29-17.09.22:425][774]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.08.29-17.09.22:425][774]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.08.29-17.09.22:426][774]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.08.29-17.09.22:427][774]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.08.29-17.09.22:427][774]LogInit: FAudioDevice initialized with ID 11.
+[2023.08.29-17.09.22:427][774]LogAudio: Display: Audio Device (ID: 11) registered with world 'Neumont3rdFloor'.
+[2023.08.29-17.09.22:427][774]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2023.08.29-17.09.22:431][774]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.08.29-17.09.22:437][774]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor.Neumont3rdFloor up for play (max tick rate 0) at 2023.08.29-11.09.22
+[2023.08.29-17.09.22:437][774]LogWorld: Bringing up level for play took: 0.006577
+[2023.08.29-17.09.22:439][774]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.08.29-17.09.22:442][774]PIE: Server logged in
+[2023.08.29-17.09.22:443][774]PIE: Play in editor total start time 0.093 seconds.
+[2023.08.29-17.09.30:702][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.29-17.09.30:702][368]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor
+[2023.08.29-17.09.30:702][368]LogWorld: UWorld::CleanupWorld for Neumont3rdFloor, bSessionEnded=true, bCleanupResources=true
+[2023.08.29-17.09.30:705][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.29-17.09.30:710][368]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.29-17.09.30:713][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.29-17.09.30:735][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.29-17.09.30:737][368]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2023.08.29-17.09.30:737][368]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.08.29-17.09.30:739][368]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.08.29-17.09.30:748][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.08.29-17.09.30:816][369]LogPlayLevel: Display: Destroying online subsystem :Context_19
