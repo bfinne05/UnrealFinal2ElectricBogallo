@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Maps/Neumont3rdFloor.umap",
+				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Materials/Gray.uasset",
+				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Materials/Yellow.uasset",
 				"C:/Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Maps/Neumont3rdFloor.umap"
 			]
