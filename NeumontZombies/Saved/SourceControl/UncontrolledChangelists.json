@@ -5,6 +5,21 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Maps/Neumont3rdFloor.umap",
+				"C:/Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Maps/TitleScreen.umap",
+				"C:/Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/Game/UI/neumontLogo.uasset",
+				"C:/Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/Game/UI/TitleScreen_GameMode.uasset",
+				"C:/Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/Game/UI/UI_Hud.uasset",
+				"C:/Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/Game/UI/UI_TitleScreen.uasset",
+				"C:/Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPersonArms/Animations/FP_Rifle_Idle.uasset",
+				"C:/Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Maps/WinScreen.umap",
+				"C:/Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset",
+				"C:/Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/Game/UI/UI_WinScreen.uasset",
+				"C:/Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/Game/UI/WinScreen_GameMode.uasset",
+				"C:/Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/Game/UI/R.uasset",
+				"C:/Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/Game/UI/Crosshair.uasset",
 				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Maps/Neumont3rdFloor.umap",
 				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/StarterContent/Props/Materials/M_TableRound.uasset",
 				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/StarterContent/Props/Materials/M_Chair.uasset",
@@ -14,9 +29,7 @@
 				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Audio/Ambience.uasset",
 				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Audio/Ambience_Cue.uasset",
 				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Materials/Textures/Maple2.uasset",
-				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Materials/Maple.uasset",
-				"C:/Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Maps/Neumont3rdFloor.umap"
+				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Materials/Maple.uasset"
 			]
 		}
 	]
