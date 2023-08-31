@@ -1378,3 +1378,1378 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2023.08.31-04.17.20:735][625]LogBlueprint: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\ABP_Manny.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'Head' - different parents on Control Rig vs SkeletalMesh.
 [2023.08.31-04.17.20:775][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
 [2023.08.31-04.18.55:086][966]LogDerivedDataCache: C:/Users/Brandon Finney/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.190 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 8201 files in 9875 folders with total size 731 MiB.
+[2023.08.31-04.22.39:205][361]LogLinker: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: Failed to load '/Game/Game/Animation/Breakdance_1990': Can't find file.
+[2023.08.31-04.22.39:205][361]LogLinker: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Game/Animation/Breakdance_1990'
+[2023.08.31-04.22.39:205][361]LogLinker: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: Failed to load '/Game/Game/Animation/Fall': Can't find file.
+[2023.08.31-04.22.39:205][361]LogLinker: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Game/Animation/Fall'
+[2023.08.31-04.22.39:206][361]LogLinker: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: Failed to load '/Game/Game/Animation/Great_Sword_Idle': Can't find file.
+[2023.08.31-04.22.39:206][361]LogLinker: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Game/Animation/Great_Sword_Idle'
+[2023.08.31-04.22.39:206][361]LogLinker: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: Failed to load '/Game/Game/Animation/Idle': Can't find file.
+[2023.08.31-04.22.39:206][361]LogLinker: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Game/Animation/Idle'
+[2023.08.31-04.22.39:206][361]LogLinker: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: Failed to load '/Game/Game/Animation/Jump': Can't find file.
+[2023.08.31-04.22.39:206][361]LogLinker: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Game/Animation/Jump'
+[2023.08.31-04.22.39:207][361]LogLinker: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: Failed to load '/Game/Game/Animation/Land': Can't find file.
+[2023.08.31-04.22.39:207][361]LogLinker: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Game/Animation/Land'
+[2023.08.31-04.22.39:207][361]LogLinker: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: Failed to load '/Game/Game/Animation/Rifle_Aiming_Idle': Can't find file.
+[2023.08.31-04.22.39:207][361]LogLinker: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Game/Animation/Rifle_Aiming_Idle'
+[2023.08.31-04.22.39:207][361]LogLinker: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: Failed to load '/Game/Game/Animation/BS_Movement': Can't find file.
+[2023.08.31-04.22.39:207][361]LogLinker: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Game/Animation/BS_Movement'
+[2023.08.31-04.22.39:208][361]LogLinker: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: Failed to load '/Game/Game/Blueprints/BP_Enemy': Can't find file.
+[2023.08.31-04.22.39:208][361]LogLinker: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Game/Blueprints/BP_Enemy'
+[2023.08.31-04.22.39:208][361]LogLinker: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: Failed to load '/Game/Game/Items/BP_WeaponBase': Can't find file.
+[2023.08.31-04.22.39:208][361]LogLinker: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Game/Items/BP_WeaponBase'
+[2023.08.31-04.22.39:211][361]LogLinker: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: Failed to load '/Game/Game/E_WeaponType': Can't find file.
+[2023.08.31-04.22.39:211][361]LogLinker: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Game/E_WeaponType'
+[2023.08.31-04.22.39:211][361]LogLinker: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: Failed to load '/Game/Game/Models/Characters/Ninja/Ch24_nonPBR_Skeleton': Can't find file.
+[2023.08.31-04.22.39:211][361]LogLinker: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Game/Models/Characters/Ninja/Ch24_nonPBR_Skeleton'
+[2023.08.31-04.22.39:211][361]LogLinker: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: Failed to load '/Game/Game/Models/Characters/Ninja/Ninja_CtrlRig': Can't find file.
+[2023.08.31-04.22.39:211][361]LogLinker: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Game/Models/Characters/Ninja/Ninja_CtrlRig'
+[2023.08.31-04.22.39:256][361]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] ABP_Enemy  - The skeleton asset for this animation Blueprint is missing, so it cannot be compiled!
+[2023.08.31-04.22.39:259][361]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Invalid pin connection from  Input Object  and  Weapon : Object Reference is not compatible with Object Reference. (You may have changed the type after the connections were made)
+[2023.08.31-04.22.39:260][361]LogBlueprint: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Could not find a variable named "WeaponType" in 'ABP_Enemy'.
+Make sure 'ABP_Enemy' has been compiled for  Get WeaponType
+[2023.08.31-04.22.39:261][361]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.08.31-04.22.39:261][361]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] In use pin  As BP Enemy  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2023.08.31-04.22.39:261][361]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Can't connect pins  Weapon  and  Object generated from expanding Is Valid : Object Reference is not compatible with Object Reference.
+[2023.08.31-04.22.39:261][361]LogBlueprint: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Could not find a variable named "Weapon" in 'ABP_Enemy'.
+Make sure 'ABP_Enemy' has been compiled for  Get Weapon
+[2023.08.31-04.22.39:261][361]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] In use pin  Character  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.08.31-04.22.39:261][361]LogBlueprint: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Could not find a variable named "LookAt" in 'ABP_Enemy'.
+Make sure 'ABP_Enemy' has been compiled for  Get LookAt
+[2023.08.31-04.22.39:262][361]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] In use pin  Character  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.08.31-04.22.39:262][361]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] In use pin  Character  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2023.08.31-04.22.39:262][361]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2023.08.31-04.22.39:262][361]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.08.31-04.22.39:263][361]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Can't connect pins  Object generated from expanding Is Valid  and  Weapon : Object Reference is not compatible with Object Reference.
+[2023.08.31-04.22.39:264][361]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] The property associated with  Weapon  could not be found in '/Game/NINJA/ABP_Enemy.ABP_Enemy_C'
+[2023.08.31-04.22.39:264][361]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] The property associated with  Weapon Type  could not be found in '/Game/NINJA/ABP_Enemy.ABP_Enemy_C'
+[2023.08.31-04.22.39:265][361]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] The property associated with  Look At  could not be found in '/Game/NINJA/ABP_Enemy.ABP_Enemy_C'
+[2023.08.31-04.22.39:281][361]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/NINJA/ABP_Enemy.ABP_Enemy
+[2023.08.31-04.22.42:569][361]LogSlate: Window 'Message' being destroyed
+[2023.08.31-04.22.42:577][361]Message dialog closed, result: Yes, title: Message, text: Could not find the skeleton for Anim Blueprint 'ABP_Enemy' Would you like to choose a new one?
+[2023.08.31-04.22.42:666][361]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.08.31-04.22.42:714][361]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.22.42:784][361]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.08.31-04.22.42:838][361]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.22.45:523][514]LogSlate: Window 'Pick Replacement Skeleton' being destroyed
+[2023.08.31-04.22.45:549][514]LogBlueprint: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Could not find a variable named "WeaponType" in 'ABP_Enemy'.
+Make sure 'ABP_Enemy' has been compiled for  Get WeaponType
+[2023.08.31-04.22.45:549][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.08.31-04.22.45:549][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] In use pin  As BP Enemy  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2023.08.31-04.22.45:549][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Can't connect pins  Weapon  and  Input Object : Object Reference is not compatible with Object Reference.
+[2023.08.31-04.22.45:549][514]LogBlueprint: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Could not find a variable named "Weapon" in 'ABP_Enemy'.
+Make sure 'ABP_Enemy' has been compiled for  Get Weapon
+[2023.08.31-04.22.45:549][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] In use pin  Character  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.08.31-04.22.45:549][514]LogBlueprint: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Could not find a variable named "LookAtLocation" in 'ABP_Enemy'.
+Make sure 'ABP_Enemy' has been compiled for  Get LookAtLocation
+[2023.08.31-04.22.45:549][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] In use pin  Character  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.08.31-04.22.45:549][514]LogBlueprint: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Could not find a variable named "LookAt" in 'ABP_Enemy'.
+Make sure 'ABP_Enemy' has been compiled for  Get LookAt
+[2023.08.31-04.22.45:549][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] In use pin  Character  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.08.31-04.22.45:550][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Can't connect pins  Input Object  and  Weapon : Object Reference is not compatible with Object Reference.
+[2023.08.31-04.22.45:550][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Invalid pin connection from  Input Object  and  Weapon : Object Reference is not compatible with Object Reference. (You may have changed the type after the connections were made)
+[2023.08.31-04.22.45:550][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] In use pin  Character  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2023.08.31-04.22.45:550][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2023.08.31-04.22.45:550][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.08.31-04.22.45:550][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] In use pin  Look at Location  no longer exists on node  Control Rig . Please refresh node or break links to remove pin.
+[2023.08.31-04.22.45:551][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Linked graph node  Control Rig  has no valid instance class to spawn.
+[2023.08.31-04.22.45:551][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2023.08.31-04.22.45:551][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2023.08.31-04.22.45:551][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] ERROR: Blend Poses (by missing enum)  references an unknown enum; please delete the node and recreate it
+[2023.08.31-04.22.45:552][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2023.08.31-04.22.45:553][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2023.08.31-04.22.45:553][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2023.08.31-04.22.45:554][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2023.08.31-04.22.45:555][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] In use pin  Character  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.08.31-04.22.45:555][514]LogBlueprint: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Could not find a variable named "IsDead" in 'ABP_Enemy'.
+Make sure 'ABP_Enemy' has been compiled for  Get IsDead
+[2023.08.31-04.22.45:557][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2023.08.31-04.22.45:557][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Blendspace Player  references an unknown Blend Space
+[2023.08.31-04.22.45:558][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Missing allocated node for AnimGraphNode_ControlRig_1 while searching for node links - likely due to the node having outstanding errors.
+[2023.08.31-04.22.45:558][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Missing allocated node for AnimGraphNode_BlendListByEnum_1 while searching for node links - likely due to the node having outstanding errors.
+[2023.08.31-04.22.45:558][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_4 while searching for node links - likely due to the node having outstanding errors.
+[2023.08.31-04.22.45:558][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_5 while searching for node links - likely due to the node having outstanding errors.
+[2023.08.31-04.22.45:558][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2023.08.31-04.22.45:558][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_1 while searching for node links - likely due to the node having outstanding errors.
+[2023.08.31-04.22.45:558][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_2 while searching for node links - likely due to the node having outstanding errors.
+[2023.08.31-04.22.45:558][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Missing allocated node for AnimGraphNode_BlendSpacePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2023.08.31-04.22.45:559][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Invalid pin connection from  Input Object  and  Weapon : Object Reference is not compatible with Object Reference. (You may have changed the type after the connections were made)
+[2023.08.31-04.22.45:560][514]LogBlueprint: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Could not find a variable named "WeaponType" in 'ABP_Enemy'.
+Make sure 'ABP_Enemy' has been compiled for  Get WeaponType
+[2023.08.31-04.22.45:561][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.08.31-04.22.45:561][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] In use pin  As BP Enemy  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2023.08.31-04.22.45:561][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Can't connect pins  Weapon  and  Object generated from expanding Is Valid : Object Reference is not compatible with Object Reference.
+[2023.08.31-04.22.45:561][514]LogBlueprint: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Could not find a variable named "Weapon" in 'ABP_Enemy'.
+Make sure 'ABP_Enemy' has been compiled for  Get Weapon
+[2023.08.31-04.22.45:561][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] In use pin  Character  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.08.31-04.22.45:561][514]LogBlueprint: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Could not find a variable named "LookAt" in 'ABP_Enemy'.
+Make sure 'ABP_Enemy' has been compiled for  Get LookAt
+[2023.08.31-04.22.45:561][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] In use pin  Character  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.08.31-04.22.45:561][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] In use pin  Character  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2023.08.31-04.22.45:562][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2023.08.31-04.22.45:562][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.08.31-04.22.45:562][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Can't connect pins  Object generated from expanding Is Valid  and  Weapon : Object Reference is not compatible with Object Reference.
+[2023.08.31-04.22.45:562][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] In use pin  Character  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.08.31-04.22.45:562][514]LogBlueprint: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Could not find a variable named "IsDead" in 'ABP_Enemy'.
+Make sure 'ABP_Enemy' has been compiled for  Get IsDead
+[2023.08.31-04.22.45:564][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] The property associated with  Weapon  could not be found in '/Game/NINJA/ABP_Enemy.ABP_Enemy_C'
+[2023.08.31-04.22.45:564][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] The property associated with  Is Dead  could not be found in '/Game/NINJA/ABP_Enemy.ABP_Enemy_C'
+[2023.08.31-04.22.45:564][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] The property associated with  Weapon Type  could not be found in '/Game/NINJA/ABP_Enemy.ABP_Enemy_C'
+[2023.08.31-04.22.45:564][514]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] The property associated with  Look At  could not be found in '/Game/NINJA/ABP_Enemy.ABP_Enemy_C'
+[2023.08.31-04.22.51:595][799]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/NINJA/ABP_Enemy.ABP_Enemy
+[2023.08.31-04.22.51:595][799]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.22.51:595][799]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-04.22.51:609][799]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.22.51:609][799]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-04.22.51:619][799]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.31-04.22.51:806][799]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.22.51:806][799]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-04.22.51:897][799]LogSlate: Took 0.006471 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.08.31-04.22.51:900][799]LogViewport: Scene viewport resized to 633x485, mode Windowed.
+[2023.08.31-04.27.54:857][579]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.27.54:953][580]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.27.55:479][599]LogShaderCompilers: Display: ================================================
+[2023.08.31-04.27.55:479][599]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.31-04.27.55:479][599]LogShaderCompilers: Display: Total job queries 24, among them cache hits 7 (29.17%)
+[2023.08.31-04.27.55:479][599]LogShaderCompilers: Display: Tracking 14 distinct input hashes that result in 8 distinct outputs (57.14%)
+[2023.08.31-04.27.55:479][599]LogShaderCompilers: Display: RAM used: 354.10 KiB of 1.60 GiB budget. Usage: 0.02%
+[2023.08.31-04.27.55:479][599]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.31-04.27.55:479][599]LogShaderCompilers: Display: Shaders Compiled: 14
+[2023.08.31-04.27.55:479][599]LogShaderCompilers: Display: Jobs assigned 17, completed 14 (82.35%)
+[2023.08.31-04.27.55:479][599]LogShaderCompilers: Display: Average time worker was idle: 284.18 s
+[2023.08.31-04.27.55:479][599]LogShaderCompilers: Display: Time job spent in pending queue: average 0.38 s, longest 1.14 s
+[2023.08.31-04.27.55:479][599]LogShaderCompilers: Display: Job execution time: average 0.84 s, max 1.06 s
+[2023.08.31-04.27.55:479][599]LogShaderCompilers: Display: Job life time (pending + execution): average 1.30 s, max 1.78
+[2023.08.31-04.27.55:480][599]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.26 s
+[2023.08.31-04.27.55:480][599]LogShaderCompilers: Display: Jobs were issued in 17 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.08.31-04.27.55:480][599]LogShaderCompilers: Display: Average processing rate: 6.18 jobs/sec
+[2023.08.31-04.27.55:480][599]LogShaderCompilers: Display: Total thread time: 7.942 s
+[2023.08.31-04.27.55:480][599]LogShaderCompilers: Display: Total thread preprocess time: 0.312 s
+[2023.08.31-04.27.55:480][599]LogShaderCompilers: Display: Percentage time preprocessing: 3.93%
+[2023.08.31-04.27.55:480][599]LogShaderCompilers: Display: Effective parallelization: 3.51 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.08.31-04.27.55:480][599]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.08.31-04.27.55:480][599]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.61 sec, max 0.67 sec, min 0.49 sec)
+[2023.08.31-04.27.55:480][599]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    6 times, average 0.58 sec, max 0.70 sec, min 0.46 sec)
+[2023.08.31-04.27.55:480][599]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2023.08.31-04.27.55:480][599]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.25 sec, max 0.25 sec, min 0.25 sec)
+[2023.08.31-04.27.55:480][599]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.08.31-04.27.55:480][599]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 46.29% of total time (compiled    6 times, average 0.61 sec, max 0.67 sec, min 0.49 sec)
+[2023.08.31-04.27.55:480][599]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 44.18% of total time (compiled    6 times, average 0.58 sec, max 0.70 sec, min 0.46 sec)
+[2023.08.31-04.27.55:480][599]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.43% of total time (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2023.08.31-04.27.55:480][599]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 3.10% of total time (compiled    1 times, average 0.25 sec, max 0.25 sec, min 0.25 sec)
+[2023.08.31-04.27.55:480][599]LogShaderCompilers: Display: ================================================
+[2023.08.31-04.28.01:902][878]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Game/Models/Animation/Zombie1_Idle_mixamo_com.Zombie1_Idle_mixamo_com
+[2023.08.31-04.28.02:090][884]LogAnimationCompression: Display: Storing compressed animation data for /Game/Game/Models/Animation/Zombie1_Idle_mixamo_com.Zombie1_Idle_mixamo_com, at AnimationSequence/c5d181750e02de6ea3771bc910be8c87fd95a990
+[2023.08.31-04.28.06:256][ 60]BlueprintLog: New page: Compile ABP_Manny
+[2023.08.31-04.28.06:263][ 60]LogBlueprint: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\ABP_Manny.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'Head' - different parents on Control Rig vs SkeletalMesh.
+[2023.08.31-04.28.06:341][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.08.31-04.28.27:484][302]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2023.08.31-04.29.10:765][ 84]BlueprintLog: New page: Compile ABP_Manny
+[2023.08.31-04.29.10:824][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.08.31-04.29.10:840][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.31-04.29.10:931][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_Manny" FILE="../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Manny.uasset" SILENT=true
+[2023.08.31-04.29.10:942][ 84]LogPackageLocalizationCache: Processed 44 localized package path(s) for 1 prioritized culture(s) in 0.010764 seconds
+[2023.08.31-04.29.10:954][ 84]LogSerialization: UsePackageTrailer: 'true'
+[2023.08.31-04.29.10:967][ 84]LogSavePackage: Moving output files for package: /Game/ABP_Manny
+[2023.08.31-04.29.10:968][ 84]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/ABP_Manny8CF694674F0DBF04FA3946BF313E14F2.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Manny.uasset'
+[2023.08.31-04.29.10:992][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms
+[2023.08.31-04.29.11:000][ 84]AssetCheck: New page: Asset Save: ABP_Manny
+[2023.08.31-04.29.11:000][ 84]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/ABP_Manny.ABP_Manny
+[2023.08.31-04.29.25:510][905]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.31-04.29.25:519][905]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.08.31-04.29.25:520][905]LogPlayLevel: [PlayLevel] Compiling ABP_Enemy before play...
+[2023.08.31-04.29.25:529][905]LogBlueprint: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Could not find a variable named "LookAtLocation" in 'ABP_Enemy'.
+Make sure 'ABP_Enemy' has been compiled for  Get LookAtLocation
+[2023.08.31-04.29.25:529][905]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] In use pin  Character  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.08.31-04.29.25:529][905]LogBlueprint: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Could not find a variable named "LookAt" in 'ABP_Enemy'.
+Make sure 'ABP_Enemy' has been compiled for  Get LookAt
+[2023.08.31-04.29.25:529][905]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] In use pin  Character  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.08.31-04.29.25:529][905]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Character . Please refresh node or break links to remove pin.
+[2023.08.31-04.29.25:529][905]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] In use pin  Look at Location  no longer exists on node  Control Rig . Please refresh node or break links to remove pin.
+[2023.08.31-04.29.25:530][905]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Linked graph node  Control Rig  has no valid instance class to spawn.
+[2023.08.31-04.29.25:530][905]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2023.08.31-04.29.25:530][905]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2023.08.31-04.29.25:530][905]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] ERROR: Blend Poses (by missing enum)  references an unknown enum; please delete the node and recreate it
+[2023.08.31-04.29.25:531][905]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2023.08.31-04.29.25:532][905]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2023.08.31-04.29.25:532][905]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2023.08.31-04.29.25:533][905]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2023.08.31-04.29.25:533][905]LogBlueprint: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] ToDead to Death  will never be taken, please connect something to  Can Enter Transition
+[2023.08.31-04.29.25:535][905]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2023.08.31-04.29.25:536][905]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Blendspace Player  references an unknown Blend Space
+[2023.08.31-04.29.25:537][905]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Missing allocated node for AnimGraphNode_ControlRig_0 while searching for node links - likely due to the node having outstanding errors.
+[2023.08.31-04.29.25:537][905]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Missing allocated node for AnimGraphNode_BlendListByEnum_0 while searching for node links - likely due to the node having outstanding errors.
+[2023.08.31-04.29.25:537][905]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_4 while searching for node links - likely due to the node having outstanding errors.
+[2023.08.31-04.29.25:537][905]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_5 while searching for node links - likely due to the node having outstanding errors.
+[2023.08.31-04.29.25:537][905]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2023.08.31-04.29.25:537][905]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_1 while searching for node links - likely due to the node having outstanding errors.
+[2023.08.31-04.29.25:537][905]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_2 while searching for node links - likely due to the node having outstanding errors.
+[2023.08.31-04.29.25:537][905]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Missing allocated node for AnimGraphNode_BlendSpacePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2023.08.31-04.29.25:539][905]LogBlueprint: Warning: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] Could not find a variable named "LookAt" in 'ABP_Enemy'.
+Make sure 'ABP_Enemy' has been compiled for  Get LookAt
+[2023.08.31-04.29.25:539][905]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] In use pin  Character  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.08.31-04.29.25:540][905]LogBlueprint: Error: [AssetLog] C:\Users\Brandon Finney\Documents\GitHub\UnrealFinal2ElectricBogallo\NeumontZombies\Content\NINJA\ABP_Enemy.uasset: [Compiler] The property associated with  Look At  could not be found in '/Game/NINJA/ABP_Enemy.ABP_Enemy_C'
+[2023.08.31-04.29.25:612][905]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.08.31-04.29.25:616][905]LogPlayLevel: PlayLevel: Blueprint regeneration took 96 ms (1 blueprints)
+[2023.08.31-04.29.25:616][905]BlueprintLog: Warning: Blueprint failed to compile:  ABP_Enemy
+[2023.08.31-04.29.28:011][905]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.08.31-04.29.39:134][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.08.31-04.29.40:258][398]LogSlate: Window 'Delete Assets' being destroyed
+[2023.08.31-04.29.40:505][398]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-04.29.40:505][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-04.29.40:538][398]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-04.29.40:538][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-04.29.40:548][398]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-04.29.40:548][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-04.29.40:566][398]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/NINJA/ABP_Enemy.ABP_Enemy
+	Asset Type: AnimBlueprint
+[2023.08.31-04.29.41:153][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.08.31-04.29.41:184][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.08.31-04.29.41:206][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.08.31-04.29.46:036][669]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.31-04.29.46:042][669]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.31-04.29.46:044][669]PIE: New page: PIE session: TitleScreen (Aug 30, 2023, 4:29:46 PM)
+[2023.08.31-04.29.46:049][669]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.08.31-04.29.46:049][669]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.08.31-04.29.46:049][669]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-04.29.46:051][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001282s)
+[2023.08.31-04.29.46:051][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/TitleScreen.TitleScreen to /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen (0.001335s)
+[2023.08.31-04.29.46:051][669]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.29.46:051][669]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-04.29.46:052][669]LogAIModule: Creating AISystem for world TitleScreen
+[2023.08.31-04.29.46:052][669]LogPlayLevel: PIE: World Init took: (0.001360s)
+[2023.08.31-04.29.46:076][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.08.31-04.29.46:078][669]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.08.31-04.29.46:078][669]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.31-04.29.46:078][669]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.31-04.29.46:078][669]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.31-04.29.46:078][669]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.31-04.29.46:078][669]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.31-04.29.46:078][669]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.31-04.29.46:078][669]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.31-04.29.46:078][669]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.31-04.29.46:079][669]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.31-04.29.46:079][669]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.31-04.29.46:079][669]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.31-04.29.46:081][669]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.31-04.29.46:126][669]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.08.31-04.29.46:127][669]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.31-04.29.46:127][669]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.31-04.29.46:127][669]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.31-04.29.46:127][669]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.08.31-04.29.46:127][669]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.08.31-04.29.46:129][669]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.08.31-04.29.46:129][669]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.08.31-04.29.46:129][669]LogInit: FAudioDevice initialized with ID 2.
+[2023.08.31-04.29.46:129][669]LogAudio: Display: Audio Device (ID: 2) registered with world 'TitleScreen'.
+[2023.08.31-04.29.46:130][669]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2023.08.31-04.29.46:134][669]LogLoad: Game class is 'TitleScreen_GameMode_C'
+[2023.08.31-04.29.46:134][669]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 60) at 2023.08.30-22.29.46
+[2023.08.31-04.29.46:135][669]LogWorld: Bringing up level for play took: 0.000499
+[2023.08.31-04.29.46:136][669]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2023.08.31-04.29.46:156][669]PIE: Server logged in
+[2023.08.31-04.29.46:157][669]PIE: Play in editor total start time 0.115 seconds.
+[2023.08.31-04.29.47:583][746]LogNet: Browse: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.31-04.29.47:583][746]LogLoad: LoadMap: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.31-04.29.47:583][746]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-04.29.47:584][746]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-04.29.47:585][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-04.29.47:628][746]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-04.29.47:630][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.08.31-04.29.47:885][746]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/FirstPersonArms/Animations/FP_Falling.FP_Falling
+[2023.08.31-04.29.47:890][746]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/FirstPersonArms/Animations/FP_Idle.FP_Idle
+[2023.08.31-04.29.47:893][746]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/FirstPersonArms/Animations/FP_Jump.FP_Jump
+[2023.08.31-04.29.47:896][746]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/FirstPersonArms/Animations/FP_Land.FP_Land
+[2023.08.31-04.29.47:900][746]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/FirstPersonArms/Animations/FP_Rifle_Falling.FP_Rifle_Falling
+[2023.08.31-04.29.47:905][746]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/FirstPersonArms/Animations/FP_Rifle_Jump.FP_Rifle_Jump
+[2023.08.31-04.29.47:908][746]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/FirstPersonArms/Animations/FP_Rifle_Land.FP_Rifle_Land
+[2023.08.31-04.29.47:911][746]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/FirstPersonArms/Animations/FP_Rifle_Run.FP_Rifle_Run
+[2023.08.31-04.29.47:915][746]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/FirstPersonArms/Animations/FP_Run_Fwd.FP_Run_Fwd
+[2023.08.31-04.29.48:043][746]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/FirstPersonArms/Animations/FP_Rifle_Fire.FP_Rifle_Fire
+[2023.08.31-04.29.48:044][746]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/FirstPersonArms/Animations/FP_Rifle_Idle.FP_Rifle_Idle
+[2023.08.31-04.29.48:051][746]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Game/Models/Animation/Zombie_Attack__1__mixamo_com.Zombie_Attack__1__mixamo_com
+[2023.08.31-04.29.48:052][746]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Game/Models/Animation/Zombie1_Run_mixamo_com.Zombie1_Run_mixamo_com
+[2023.08.31-04.29.48:063][746]LogAudio: Display: Audio Device (ID: 2) registered with world 'Neumont3rdFloor'.
+[2023.08.31-04.29.48:063][746]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.29.48:063][746]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-04.29.48:064][746]LogAIModule: Creating AISystem for world Neumont3rdFloor
+[2023.08.31-04.29.48:065][746]LogPlayLevel: PIE: World Init took: (0.001487s)
+[2023.08.31-04.29.48:065][746]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.08.31-04.29.48:069][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/StarterContent/Props/SM_Lamp_Ceiling.SM_Lamp_Ceiling being ready before playing
+[2023.08.31-04.29.48:069][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/EngineSky/SM_SkySphere.SM_SkySphere being ready before playing
+[2023.08.31-04.29.48:069][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor being ready before playing
+[2023.08.31-04.29.48:069][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/StarterContent/Props/SM_Bush.SM_Bush being ready before playing
+[2023.08.31-04.29.48:069][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair being ready before playing
+[2023.08.31-04.29.48:069][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/StarterContent/Props/SM_Couch.SM_Couch being ready before playing
+[2023.08.31-04.29.48:069][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame being ready before playing
+[2023.08.31-04.29.48:069][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/StarterContent/Props/SM_Stairs.SM_Stairs being ready before playing
+[2023.08.31-04.29.48:069][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/StarterContent/Props/SM_TableRound.SM_TableRound being ready before playing
+[2023.08.31-04.29.48:077][746]LogAnimationCompression: Display: Storing compressed animation data for /Game/Game/Models/Animation/Zombie1_Run_mixamo_com.Zombie1_Run_mixamo_com, at AnimationSequence/e5640974682ad66209474a2389cd54d1e466a356
+[2023.08.31-04.29.48:085][746]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor.Neumont3rdFloor up for play (max tick rate 60) at 2023.08.30-22.29.48
+[2023.08.31-04.29.48:089][746]LogWorld: Bringing up level for play took: 0.019491
+[2023.08.31-04.29.48:098][746]LogLoad: Took 0.514173 seconds to LoadMap(/Game/FirstPerson/Maps/Neumont3rdFloor)
+[2023.08.31-04.29.48:455][749]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.29.48:485][750]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.29.57:326][ 24]LogAnimationCompression: Display: Storing compressed animation data for /Game/Game/Models/Animation/Zombie_Attack__1__mixamo_com.Zombie_Attack__1__mixamo_com, at AnimationSequence/dbc524b12f15671b9741ee0779ebf45e49c85536
+[2023.08.31-04.30.02:350][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-04.30.02:350][197]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor
+[2023.08.31-04.30.02:351][197]LogWorld: UWorld::CleanupWorld for Neumont3rdFloor, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-04.30.02:352][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-04.30.02:379][197]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.31-04.30.02:385][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-04.30.02:418][197]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-04.30.02:418][197]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2023.08.31-04.30.02:418][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.08.31-04.30.02:420][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.08.31-04.30.02:427][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-04.30.02:438][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.08.31-04.30.02:470][198]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.08.31-04.31.33:537][323]LogEditorTransaction: Undo Delete current selection
+[2023.08.31-04.31.33:633][323]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.31-04.32.10:112][690]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.08.31-04.32.10:117][690]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/TitleScreen' took 0.047
+[2023.08.31-04.32.10:118][690]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ABP_Manny] ([2] browsable assets)...
+[2023.08.31-04.32.10:145][690]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ABP_Manny.ABP_Manny]
+[2023.08.31-04.32.10:145][690]OBJ SavePackage: Finished generating thumbnails for package [/Game/ABP_Manny]
+[2023.08.31-04.32.10:175][690]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ABP_Manny_Auto1
+[2023.08.31-04.32.10:175][690]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/ABP_Manny_Auto19796CC434D3713522DADF6A7C1E7DFE6.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/Autosaves/Game/ABP_Manny_Auto1.uasset'
+[2023.08.31-04.32.10:177][690]LogFileHelpers: Auto-saving content packages took 0.060
+[2023.08.31-04.33.25:387][ 63]BlueprintLog: New page: Compile ABP_Manny
+[2023.08.31-04.33.25:457][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.08.31-04.33.25:474][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.31-04.33.25:609][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_Manny" FILE="../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Manny.uasset" SILENT=true
+[2023.08.31-04.33.25:638][ 63]LogSavePackage: Moving output files for package: /Game/ABP_Manny
+[2023.08.31-04.33.25:639][ 63]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/ABP_Manny89DB1EEA45ACA596876E6EB56136305C.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Manny.uasset'
+[2023.08.31-04.33.25:680][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave took 206 ms (total: 358 ms)
+[2023.08.31-04.33.25:688][ 63]AssetCheck: New page: Asset Save: ABP_Manny
+[2023.08.31-04.33.25:688][ 63]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/ABP_Manny.ABP_Manny
+[2023.08.31-04.33.30:061][179]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.31-04.33.30:070][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.31-04.33.30:070][179]PIE: New page: PIE session: TitleScreen (Aug 30, 2023, 4:33:30 PM)
+[2023.08.31-04.33.30:070][179]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-04.33.30:071][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001183s)
+[2023.08.31-04.33.30:072][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/TitleScreen.TitleScreen to /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen (0.001247s)
+[2023.08.31-04.33.30:072][179]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.33.30:072][179]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-04.33.30:072][179]LogAIModule: Creating AISystem for world TitleScreen
+[2023.08.31-04.33.30:073][179]LogPlayLevel: PIE: World Init took: (0.001367s)
+[2023.08.31-04.33.30:108][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.08.31-04.33.30:111][179]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.08.31-04.33.30:111][179]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.31-04.33.30:111][179]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.31-04.33.30:111][179]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.31-04.33.30:111][179]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.31-04.33.30:111][179]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.31-04.33.30:111][179]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.31-04.33.30:111][179]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.31-04.33.30:111][179]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.31-04.33.30:112][179]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.31-04.33.30:112][179]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.31-04.33.30:112][179]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.31-04.33.30:116][179]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.31-04.33.30:180][179]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.08.31-04.33.30:180][179]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.31-04.33.30:181][179]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.31-04.33.30:181][179]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.31-04.33.30:182][179]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.08.31-04.33.30:182][179]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.08.31-04.33.30:184][179]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.08.31-04.33.30:184][179]LogInit: FAudioDevice initialized with ID 3.
+[2023.08.31-04.33.30:184][179]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.08.31-04.33.30:184][179]LogAudio: Display: Audio Device (ID: 3) registered with world 'TitleScreen'.
+[2023.08.31-04.33.30:184][179]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2023.08.31-04.33.30:189][179]LogLoad: Game class is 'TitleScreen_GameMode_C'
+[2023.08.31-04.33.30:190][179]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 60) at 2023.08.30-22.33.30
+[2023.08.31-04.33.30:190][179]LogWorld: Bringing up level for play took: 0.000491
+[2023.08.31-04.33.30:192][179]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.08.31-04.33.30:195][179]PIE: Server logged in
+[2023.08.31-04.33.30:196][179]PIE: Play in editor total start time 0.126 seconds.
+[2023.08.31-04.33.30:847][204]LogNet: Browse: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.31-04.33.30:847][204]LogLoad: LoadMap: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.31-04.33.30:847][204]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-04.33.30:848][204]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-04.33.30:848][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-04.33.30:903][204]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-04.33.30:905][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.08.31-04.33.30:938][204]LogAudio: Display: Audio Device (ID: 3) registered with world 'Neumont3rdFloor'.
+[2023.08.31-04.33.30:938][204]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.33.30:939][204]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-04.33.30:939][204]LogAIModule: Creating AISystem for world Neumont3rdFloor
+[2023.08.31-04.33.30:940][204]LogPlayLevel: PIE: World Init took: (0.001407s)
+[2023.08.31-04.33.30:940][204]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.08.31-04.33.30:957][204]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor.Neumont3rdFloor up for play (max tick rate 60) at 2023.08.30-22.33.30
+[2023.08.31-04.33.30:958][204]LogWorld: Bringing up level for play took: 0.018442
+[2023.08.31-04.33.30:963][204]LogLoad: Took 0.116292 seconds to LoadMap(/Game/FirstPerson/Maps/Neumont3rdFloor)
+[2023.08.31-04.33.38:680][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-04.33.38:680][628]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor
+[2023.08.31-04.33.38:681][628]LogWorld: UWorld::CleanupWorld for Neumont3rdFloor, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-04.33.38:682][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-04.33.38:686][628]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.31-04.33.38:690][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-04.33.38:711][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-04.33.38:712][628]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2023.08.31-04.33.38:712][628]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.08.31-04.33.38:714][628]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.08.31-04.33.38:721][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.08.31-04.33.38:744][629]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.08.31-04.33.57:183][367]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/BS_MF_Unarmed_WalkRun.BS_MF_Unarmed_WalkRun
+[2023.08.31-04.33.57:191][367]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.33.57:191][367]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-04.33.57:220][367]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.31-04.33.57:397][367]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.33.57:397][367]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-04.33.57:541][367]LogViewport: Scene viewport resized to 1519x831, mode Windowed.
+[2023.08.31-04.33.57:557][367]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.08.31-04.34.14:444][313]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-04.34.14:444][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-04.34.14:514][313]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-04.34.14:514][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-04.36.00:360][566]BlueprintLog: New page: Compile ABP_Manny
+[2023.08.31-04.36.00:445][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.08.31-04.36.00:465][566]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.31-04.36.00:581][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_Manny" FILE="../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Manny.uasset" SILENT=true
+[2023.08.31-04.36.00:613][566]LogSavePackage: Moving output files for package: /Game/ABP_Manny
+[2023.08.31-04.36.00:614][566]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/ABP_Manny7325162647DDCD81810E438AEA2BBB47.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Manny.uasset'
+[2023.08.31-04.36.00:651][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 186 ms (total: 544 ms)
+[2023.08.31-04.36.00:659][566]AssetCheck: New page: Asset Save: ABP_Manny
+[2023.08.31-04.36.00:659][566]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/ABP_Manny.ABP_Manny
+[2023.08.31-04.36.16:759][873]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.36.19:014][919]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/Blueprints/ZombieCharacter.ZombieCharacter
+[2023.08.31-04.36.19:015][919]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.36.19:015][919]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-04.36.22:566][ 27]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2023.08.31-04.36.27:691][168]BlueprintLog: New page: Compile ZombieCharacter
+[2023.08.31-04.36.27:821][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.08.31-04.36.27:840][168]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.31-04.36.27:919][168]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.36.27:974][168]LogSavePackage: Moving output files for package: /Game/Game/Blueprints/ZombieCharacter
+[2023.08.31-04.36.27:975][168]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/ZombieCharacterAD93D9764D91BA88751E94B4DF8CD8B0.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/Game/Blueprints/ZombieCharacter.uasset'
+[2023.08.31-04.36.28:002][168]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 706 ms)
+[2023.08.31-04.36.28:078][168]AssetCheck: New page: Asset Save: ZombieCharacter
+[2023.08.31-04.36.28:078][168]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Game/Blueprints/ZombieCharacter.ZombieCharacter
+[2023.08.31-04.36.29:376][221]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.31-04.36.29:385][221]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.31-04.36.29:385][221]PIE: New page: PIE session: TitleScreen (Aug 30, 2023, 4:36:29 PM)
+[2023.08.31-04.36.29:385][221]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-04.36.29:386][221]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001175s)
+[2023.08.31-04.36.29:386][221]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/TitleScreen.TitleScreen to /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen (0.001231s)
+[2023.08.31-04.36.29:386][221]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.36.29:386][221]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-04.36.29:387][221]LogAIModule: Creating AISystem for world TitleScreen
+[2023.08.31-04.36.29:387][221]LogPlayLevel: PIE: World Init took: (0.001117s)
+[2023.08.31-04.36.29:424][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.08.31-04.36.29:429][221]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.08.31-04.36.29:430][221]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.31-04.36.29:430][221]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.31-04.36.29:430][221]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.31-04.36.29:430][221]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.31-04.36.29:430][221]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.31-04.36.29:430][221]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.31-04.36.29:430][221]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.31-04.36.29:430][221]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.31-04.36.29:430][221]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.31-04.36.29:430][221]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.31-04.36.29:430][221]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.31-04.36.29:433][221]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.31-04.36.29:496][221]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.08.31-04.36.29:496][221]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.31-04.36.29:496][221]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.31-04.36.29:497][221]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.31-04.36.29:498][221]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.08.31-04.36.29:498][221]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.08.31-04.36.29:500][221]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.08.31-04.36.29:500][221]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.08.31-04.36.29:500][221]LogInit: FAudioDevice initialized with ID 4.
+[2023.08.31-04.36.29:500][221]LogAudio: Display: Audio Device (ID: 4) registered with world 'TitleScreen'.
+[2023.08.31-04.36.29:500][221]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2023.08.31-04.36.29:505][221]LogLoad: Game class is 'TitleScreen_GameMode_C'
+[2023.08.31-04.36.29:505][221]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 0) at 2023.08.30-22.36.29
+[2023.08.31-04.36.29:505][221]LogWorld: Bringing up level for play took: 0.000482
+[2023.08.31-04.36.29:508][221]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.08.31-04.36.29:510][221]PIE: Server logged in
+[2023.08.31-04.36.29:511][221]PIE: Play in editor total start time 0.127 seconds.
+[2023.08.31-04.36.30:333][266]LogNet: Browse: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.31-04.36.30:333][266]LogLoad: LoadMap: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.31-04.36.30:333][266]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-04.36.30:334][266]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-04.36.30:334][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-04.36.30:393][266]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-04.36.30:396][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.08.31-04.36.30:431][266]LogAudio: Display: Audio Device (ID: 4) registered with world 'Neumont3rdFloor'.
+[2023.08.31-04.36.30:431][266]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.36.30:431][266]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-04.36.30:432][266]LogAIModule: Creating AISystem for world Neumont3rdFloor
+[2023.08.31-04.36.30:432][266]LogPlayLevel: PIE: World Init took: (0.001299s)
+[2023.08.31-04.36.30:432][266]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.08.31-04.36.30:450][266]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor.Neumont3rdFloor up for play (max tick rate 0) at 2023.08.30-22.36.30
+[2023.08.31-04.36.30:450][266]LogWorld: Bringing up level for play took: 0.017844
+[2023.08.31-04.36.30:455][266]LogLoad: Took 0.120952 seconds to LoadMap(/Game/FirstPerson/Maps/Neumont3rdFloor)
+[2023.08.31-04.36.37:821][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-04.36.37:821][771]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor
+[2023.08.31-04.36.37:821][771]LogWorld: UWorld::CleanupWorld for Neumont3rdFloor, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-04.36.37:823][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-04.36.37:827][771]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.31-04.36.37:834][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-04.36.37:868][771]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-04.36.37:868][771]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2023.08.31-04.36.37:868][771]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.08.31-04.36.37:871][771]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.08.31-04.36.37:877][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-04.36.37:883][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.08.31-04.36.37:913][772]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.08.31-04.38.00:289][133]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.08.31-04.38.00:290][133]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.08.31-04.39.54:522][841]BlueprintLog: New page: Compile ABP_Manny
+[2023.08.31-04.39.54:581][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.08.31-04.39.54:600][841]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.31-04.39.54:679][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_Manny" FILE="../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Manny.uasset" SILENT=true
+[2023.08.31-04.39.54:702][841]LogSavePackage: Moving output files for package: /Game/ABP_Manny
+[2023.08.31-04.39.54:703][841]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/ABP_MannyAF470AF1408AB60DEC1012825BCE25BC.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Manny.uasset'
+[2023.08.31-04.39.54:711][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_Zombie" FILE="../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Zombie.uasset" SILENT=true
+[2023.08.31-04.39.54:715][841]LogSavePackage: Moving output files for package: /Game/ABP_Zombie
+[2023.08.31-04.39.54:715][841]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/ABP_ZombieE845DDB246DF2A300521FA95739D5A3C.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Zombie.uasset'
+[2023.08.31-04.39.54:731][841]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 836 ms)
+[2023.08.31-04.39.54:738][841]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.31-04.39.54:738][841]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/ABP_Manny.ABP_Manny
+[2023.08.31-04.39.54:738][841]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/ABP_Zombie.ABP_Zombie
+[2023.08.31-04.39.59:879][305]BlueprintLog: New page: Compile ABP_Manny
+[2023.08.31-04.39.59:947][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.08.31-04.39.59:960][305]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.31-04.40.00:034][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_Manny" FILE="../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Manny.uasset" SILENT=true
+[2023.08.31-04.40.00:062][305]LogSavePackage: Moving output files for package: /Game/ABP_Manny
+[2023.08.31-04.40.00:062][305]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/ABP_MannyC79AF9E7450EC6BD1A8FD881E9057480.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Manny.uasset'
+[2023.08.31-04.40.00:071][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_Zombie" FILE="../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Zombie.uasset" SILENT=true
+[2023.08.31-04.40.00:076][305]LogSavePackage: Moving output files for package: /Game/ABP_Zombie
+[2023.08.31-04.40.00:077][305]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/ABP_Zombie67704A764BDE75C5F2DDD1AEB442627E.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Zombie.uasset'
+[2023.08.31-04.40.00:095][305]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 971 ms)
+[2023.08.31-04.40.00:102][305]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.31-04.40.00:102][305]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/ABP_Manny.ABP_Manny
+[2023.08.31-04.40.00:102][305]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/ABP_Zombie.ABP_Zombie
+[2023.08.31-04.40.06:829][829]BlueprintLog: New page: Compile ABP_Manny
+[2023.08.31-04.40.06:910][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.08.31-04.40.06:927][829]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.31-04.40.07:006][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_Manny" FILE="../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Manny.uasset" SILENT=true
+[2023.08.31-04.40.07:038][829]LogSavePackage: Moving output files for package: /Game/ABP_Manny
+[2023.08.31-04.40.07:039][829]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/ABP_Manny60DA65584FECA5212AE738BAD9C02E77.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Manny.uasset'
+[2023.08.31-04.40.07:048][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_Zombie" FILE="../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Zombie.uasset" SILENT=true
+[2023.08.31-04.40.07:055][829]LogSavePackage: Moving output files for package: /Game/ABP_Zombie
+[2023.08.31-04.40.07:056][829]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/ABP_ZombieC94649364BAA60E0FEAEA0974698FDEF.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Zombie.uasset'
+[2023.08.31-04.40.07:078][829]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 1.12 sec)
+[2023.08.31-04.40.07:092][829]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.31-04.40.07:092][829]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/ABP_Manny.ABP_Manny
+[2023.08.31-04.40.07:092][829]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/ABP_Zombie.ABP_Zombie
+[2023.08.31-04.40.09:421][  5]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.31-04.40.09:430][  5]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.31-04.40.09:430][  5]PIE: New page: PIE session: TitleScreen (Aug 30, 2023, 4:40:09 PM)
+[2023.08.31-04.40.09:430][  5]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-04.40.09:431][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001153s)
+[2023.08.31-04.40.09:431][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/TitleScreen.TitleScreen to /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen (0.001211s)
+[2023.08.31-04.40.09:431][  5]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.40.09:432][  5]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-04.40.09:432][  5]LogAIModule: Creating AISystem for world TitleScreen
+[2023.08.31-04.40.09:433][  5]LogPlayLevel: PIE: World Init took: (0.001349s)
+[2023.08.31-04.40.09:473][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.08.31-04.40.09:476][  5]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.08.31-04.40.09:476][  5]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.31-04.40.09:476][  5]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.31-04.40.09:476][  5]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.31-04.40.09:476][  5]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.31-04.40.09:476][  5]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.31-04.40.09:476][  5]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.31-04.40.09:476][  5]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.31-04.40.09:476][  5]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.31-04.40.09:477][  5]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.31-04.40.09:477][  5]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.31-04.40.09:477][  5]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.31-04.40.09:480][  5]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.31-04.40.09:542][  5]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.08.31-04.40.09:543][  5]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.31-04.40.09:543][  5]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.31-04.40.09:543][  5]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.31-04.40.09:544][  5]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.08.31-04.40.09:544][  5]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.08.31-04.40.09:547][  5]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.08.31-04.40.09:547][  5]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.08.31-04.40.09:547][  5]LogInit: FAudioDevice initialized with ID 5.
+[2023.08.31-04.40.09:547][  5]LogAudio: Display: Audio Device (ID: 5) registered with world 'TitleScreen'.
+[2023.08.31-04.40.09:547][  5]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2023.08.31-04.40.09:551][  5]LogLoad: Game class is 'TitleScreen_GameMode_C'
+[2023.08.31-04.40.09:551][  5]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 0) at 2023.08.30-22.40.09
+[2023.08.31-04.40.09:552][  5]LogWorld: Bringing up level for play took: 0.000454
+[2023.08.31-04.40.09:554][  5]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.08.31-04.40.09:557][  5]PIE: Server logged in
+[2023.08.31-04.40.09:557][  5]PIE: Play in editor total start time 0.128 seconds.
+[2023.08.31-04.40.09:966][ 35]LogNet: Browse: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.31-04.40.09:966][ 35]LogLoad: LoadMap: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.31-04.40.09:966][ 35]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-04.40.09:967][ 35]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-04.40.09:967][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-04.40.10:022][ 35]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-04.40.10:025][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.08.31-04.40.10:057][ 35]LogAudio: Display: Audio Device (ID: 5) registered with world 'Neumont3rdFloor'.
+[2023.08.31-04.40.10:058][ 35]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.40.10:058][ 35]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-04.40.10:058][ 35]LogAIModule: Creating AISystem for world Neumont3rdFloor
+[2023.08.31-04.40.10:059][ 35]LogPlayLevel: PIE: World Init took: (0.001208s)
+[2023.08.31-04.40.10:059][ 35]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.08.31-04.40.10:076][ 35]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor.Neumont3rdFloor up for play (max tick rate 0) at 2023.08.30-22.40.10
+[2023.08.31-04.40.10:077][ 35]LogWorld: Bringing up level for play took: 0.018152
+[2023.08.31-04.40.10:082][ 35]LogLoad: Took 0.115828 seconds to LoadMap(/Game/FirstPerson/Maps/Neumont3rdFloor)
+[2023.08.31-04.40.15:180][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-04.40.15:180][466]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor
+[2023.08.31-04.40.15:181][466]LogWorld: UWorld::CleanupWorld for Neumont3rdFloor, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-04.40.15:182][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-04.40.15:187][466]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.31-04.40.15:194][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-04.40.15:227][466]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-04.40.15:227][466]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2023.08.31-04.40.15:227][466]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.08.31-04.40.15:230][466]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.08.31-04.40.15:236][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-04.40.15:242][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.08.31-04.40.15:275][467]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.08.31-04.41.20:139][520]BlueprintLog: New page: Compile ABP_Manny
+[2023.08.31-04.41.20:221][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.08.31-04.41.20:238][520]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.31-04.41.20:363][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_Manny" FILE="../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Manny.uasset" SILENT=true
+[2023.08.31-04.41.20:395][520]LogSavePackage: Moving output files for package: /Game/ABP_Manny
+[2023.08.31-04.41.20:396][520]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/ABP_Manny3EE19A994FCBEEE4E7DC06A3D6BD32B9.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Manny.uasset'
+[2023.08.31-04.41.20:408][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_Zombie" FILE="../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Zombie.uasset" SILENT=true
+[2023.08.31-04.41.20:414][520]LogSavePackage: Moving output files for package: /Game/ABP_Zombie
+[2023.08.31-04.41.20:415][520]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/ABP_Zombie41673C3C456C9D4D350C01A5EA9D36DE.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Zombie.uasset'
+[2023.08.31-04.41.20:455][520]LogFileHelpers: InternalPromptForCheckoutAndSave took 216 ms (total: 1.33 sec)
+[2023.08.31-04.41.20:472][520]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.31-04.41.20:472][520]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/ABP_Manny.ABP_Manny
+[2023.08.31-04.41.20:472][520]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/ABP_Zombie.ABP_Zombie
+[2023.08.31-04.42.43:611][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.08.31-04.42.43:615][597]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/TitleScreen' took 0.040
+[2023.08.31-04.42.43:615][597]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BS_MF_Unarmed_WalkRun] ([1] browsable assets)...
+[2023.08.31-04.42.43:626][597]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/BS_MF_Unarmed_WalkRun.BS_MF_Unarmed_WalkRun]
+[2023.08.31-04.42.43:626][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/BS_MF_Unarmed_WalkRun]
+[2023.08.31-04.42.43:629][597]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BS_MF_Unarmed_WalkRun_Auto2
+[2023.08.31-04.42.43:629][597]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/BS_MF_Unarmed_WalkRun_Auto276592506476C2C93AB93E99E1DB91091.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/Autosaves/Game/BS_MF_Unarmed_WalkRun_Auto2.uasset'
+[2023.08.31-04.42.43:630][597]LogFileHelpers: Auto-saving content packages took 0.016
+[2023.08.31-04.43.34:527][  9]BlueprintLog: New page: Compile ABP_Manny
+[2023.08.31-04.43.34:615][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.08.31-04.43.34:632][  9]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.31-04.43.34:728][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_Manny" FILE="../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Manny.uasset" SILENT=true
+[2023.08.31-04.43.34:761][  9]LogSavePackage: Moving output files for package: /Game/ABP_Manny
+[2023.08.31-04.43.34:762][  9]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/ABP_MannyB3EEA3CC42741AD95D6B239CC789F756.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Manny.uasset'
+[2023.08.31-04.43.34:788][  9]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 1.49 sec)
+[2023.08.31-04.43.34:796][  9]AssetCheck: New page: Asset Save: ABP_Manny
+[2023.08.31-04.43.34:796][  9]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/ABP_Manny.ABP_Manny
+[2023.08.31-04.43.39:399][241]BlueprintLog: New page: Compile ABP_Manny
+[2023.08.31-04.43.39:483][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.08.31-04.43.39:499][241]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.31-04.43.39:591][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_Manny" FILE="../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Manny.uasset" SILENT=true
+[2023.08.31-04.43.39:622][241]LogSavePackage: Moving output files for package: /Game/ABP_Manny
+[2023.08.31-04.43.39:623][241]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/ABP_MannyD2CCB528450EF9E4FF241191F23A0CC4.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Manny.uasset'
+[2023.08.31-04.43.39:633][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_Zombie" FILE="../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Zombie.uasset" SILENT=true
+[2023.08.31-04.43.39:638][241]LogSavePackage: Moving output files for package: /Game/ABP_Zombie
+[2023.08.31-04.43.39:639][241]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/ABP_Zombie053A14DA4C0B174548D5079C71256B13.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Zombie.uasset'
+[2023.08.31-04.43.39:663][241]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 1.66 sec)
+[2023.08.31-04.43.39:670][241]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.31-04.43.39:670][241]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/ABP_Manny.ABP_Manny
+[2023.08.31-04.43.39:670][241]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/ABP_Zombie.ABP_Zombie
+[2023.08.31-04.45.50:526][792]BlueprintLog: New page: Compile ABP_Manny
+[2023.08.31-04.45.50:606][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.08.31-04.45.50:635][792]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.31-04.45.50:717][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_Manny" FILE="../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Manny.uasset" SILENT=true
+[2023.08.31-04.45.50:749][792]LogSavePackage: Moving output files for package: /Game/ABP_Manny
+[2023.08.31-04.45.50:750][792]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/ABP_Manny28F8A49549DA3799EE7B27B1E5240DE8.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Manny.uasset'
+[2023.08.31-04.45.50:774][792]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 1.79 sec)
+[2023.08.31-04.45.50:784][792]AssetCheck: New page: Asset Save: ABP_Manny
+[2023.08.31-04.45.50:784][792]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/ABP_Manny.ABP_Manny
+[2023.08.31-04.45.56:610][111]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.31-04.45.56:618][111]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.31-04.45.56:619][111]PIE: New page: PIE session: TitleScreen (Aug 30, 2023, 4:45:56 PM)
+[2023.08.31-04.45.56:619][111]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-04.45.56:620][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001240s)
+[2023.08.31-04.45.56:620][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/TitleScreen.TitleScreen to /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen (0.001296s)
+[2023.08.31-04.45.56:620][111]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.45.56:620][111]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-04.45.56:621][111]LogAIModule: Creating AISystem for world TitleScreen
+[2023.08.31-04.45.56:621][111]LogPlayLevel: PIE: World Init took: (0.001392s)
+[2023.08.31-04.45.56:657][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.08.31-04.45.56:660][111]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.08.31-04.45.56:660][111]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.31-04.45.56:660][111]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.31-04.45.56:660][111]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.31-04.45.56:660][111]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.31-04.45.56:660][111]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.31-04.45.56:660][111]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.31-04.45.56:660][111]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.31-04.45.56:660][111]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.31-04.45.56:661][111]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.31-04.45.56:661][111]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.31-04.45.56:661][111]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.31-04.45.56:664][111]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.31-04.45.56:729][111]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.08.31-04.45.56:730][111]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.31-04.45.56:730][111]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.31-04.45.56:730][111]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.31-04.45.56:732][111]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.08.31-04.45.56:732][111]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.08.31-04.45.56:734][111]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.08.31-04.45.56:734][111]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.08.31-04.45.56:734][111]LogInit: FAudioDevice initialized with ID 6.
+[2023.08.31-04.45.56:734][111]LogAudio: Display: Audio Device (ID: 6) registered with world 'TitleScreen'.
+[2023.08.31-04.45.56:734][111]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2023.08.31-04.45.56:739][111]LogLoad: Game class is 'TitleScreen_GameMode_C'
+[2023.08.31-04.45.56:739][111]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 0) at 2023.08.30-22.45.56
+[2023.08.31-04.45.56:739][111]LogWorld: Bringing up level for play took: 0.000447
+[2023.08.31-04.45.56:742][111]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.08.31-04.45.56:745][111]PIE: Server logged in
+[2023.08.31-04.45.56:746][111]PIE: Play in editor total start time 0.127 seconds.
+[2023.08.31-04.45.57:415][172]LogNet: Browse: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.31-04.45.57:415][172]LogLoad: LoadMap: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.31-04.45.57:415][172]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-04.45.57:416][172]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-04.45.57:416][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-04.45.57:473][172]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-04.45.57:476][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.08.31-04.45.57:508][172]LogAudio: Display: Audio Device (ID: 6) registered with world 'Neumont3rdFloor'.
+[2023.08.31-04.45.57:508][172]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.45.57:508][172]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-04.45.57:509][172]LogAIModule: Creating AISystem for world Neumont3rdFloor
+[2023.08.31-04.45.57:510][172]LogPlayLevel: PIE: World Init took: (0.001197s)
+[2023.08.31-04.45.57:510][172]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.08.31-04.45.57:527][172]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor.Neumont3rdFloor up for play (max tick rate 0) at 2023.08.30-22.45.57
+[2023.08.31-04.45.57:528][172]LogWorld: Bringing up level for play took: 0.018668
+[2023.08.31-04.45.57:534][172]LogLoad: Took 0.118525 seconds to LoadMap(/Game/FirstPerson/Maps/Neumont3rdFloor)
+[2023.08.31-04.46.09:241][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-04.46.09:241][465]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor
+[2023.08.31-04.46.09:242][465]LogWorld: UWorld::CleanupWorld for Neumont3rdFloor, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-04.46.09:243][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-04.46.09:249][465]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.31-04.46.09:255][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-04.46.09:290][465]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-04.46.09:290][465]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2023.08.31-04.46.09:290][465]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.08.31-04.46.09:292][465]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.08.31-04.46.09:299][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-04.46.09:305][465]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.08.31-04.46.09:336][466]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.08.31-04.46.21:888][520]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/BS_MF_Unarmed_WalkRun.BS_MF_Unarmed_WalkRun
+[2023.08.31-04.46.21:889][520]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.46.21:889][520]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-04.46.21:898][520]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.31-04.46.22:026][520]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.46.22:026][520]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-04.46.22:137][520]LogViewport: Scene viewport resized to 1519x831, mode Windowed.
+[2023.08.31-04.46.22:149][520]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.08.31-04.46.43:540][118]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.31-04.46.43:643][118]LogSavePackage: Moving output files for package: /Game/BS_MF_Unarmed_WalkRun
+[2023.08.31-04.46.43:644][118]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/BS_MF_Unarmed_WalkRunFDA1460F40EF77A9CDACB1AFBE421951.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/BS_MF_Unarmed_WalkRun.uasset'
+[2023.08.31-04.46.43:664][118]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 1.92 sec)
+[2023.08.31-04.46.43:672][118]AssetCheck: New page: Asset Save: BS_MF_Unarmed_WalkRun
+[2023.08.31-04.46.43:672][118]LogContentValidation: Display: Validating /Script/Engine.BlendSpace1D /Game/BS_MF_Unarmed_WalkRun.BS_MF_Unarmed_WalkRun
+[2023.08.31-04.46.49:478][762]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.31-04.46.49:487][762]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.31-04.46.49:487][762]PIE: New page: PIE session: TitleScreen (Aug 30, 2023, 4:46:49 PM)
+[2023.08.31-04.46.49:520][762]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-04.46.49:522][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001113s)
+[2023.08.31-04.46.49:522][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/TitleScreen.TitleScreen to /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen (0.001183s)
+[2023.08.31-04.46.49:522][762]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.46.49:522][762]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-04.46.49:522][762]LogAIModule: Creating AISystem for world TitleScreen
+[2023.08.31-04.46.49:523][762]LogPlayLevel: PIE: World Init took: (0.001346s)
+[2023.08.31-04.46.49:557][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.08.31-04.46.49:558][762]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.08.31-04.46.49:558][762]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.31-04.46.49:559][762]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.31-04.46.49:559][762]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.31-04.46.49:559][762]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.31-04.46.49:559][762]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.31-04.46.49:559][762]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.31-04.46.49:559][762]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.31-04.46.49:559][762]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.31-04.46.49:559][762]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.31-04.46.49:559][762]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.31-04.46.49:559][762]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.31-04.46.49:562][762]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.31-04.46.49:624][762]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.08.31-04.46.49:625][762]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.31-04.46.49:625][762]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.31-04.46.49:625][762]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.31-04.46.49:626][762]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.08.31-04.46.49:626][762]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.08.31-04.46.49:629][762]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.08.31-04.46.49:629][762]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.08.31-04.46.49:629][762]LogInit: FAudioDevice initialized with ID 7.
+[2023.08.31-04.46.49:629][762]LogAudio: Display: Audio Device (ID: 7) registered with world 'TitleScreen'.
+[2023.08.31-04.46.49:629][762]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2023.08.31-04.46.49:633][762]LogLoad: Game class is 'TitleScreen_GameMode_C'
+[2023.08.31-04.46.49:634][762]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 0) at 2023.08.30-22.46.49
+[2023.08.31-04.46.49:634][762]LogWorld: Bringing up level for play took: 0.000421
+[2023.08.31-04.46.49:636][762]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2023.08.31-04.46.49:639][762]PIE: Server logged in
+[2023.08.31-04.46.49:639][762]PIE: Play in editor total start time 0.153 seconds.
+[2023.08.31-04.46.50:302][833]LogNet: Browse: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.31-04.46.50:302][833]LogLoad: LoadMap: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.31-04.46.50:302][833]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-04.46.50:303][833]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-04.46.50:303][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-04.46.50:363][833]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-04.46.50:366][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.08.31-04.46.50:398][833]LogAudio: Display: Audio Device (ID: 7) registered with world 'Neumont3rdFloor'.
+[2023.08.31-04.46.50:398][833]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.46.50:398][833]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-04.46.50:399][833]LogAIModule: Creating AISystem for world Neumont3rdFloor
+[2023.08.31-04.46.50:399][833]LogPlayLevel: PIE: World Init took: (0.001214s)
+[2023.08.31-04.46.50:399][833]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.08.31-04.46.50:416][833]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor.Neumont3rdFloor up for play (max tick rate 0) at 2023.08.30-22.46.50
+[2023.08.31-04.46.50:417][833]LogWorld: Bringing up level for play took: 0.017725
+[2023.08.31-04.46.50:422][833]LogLoad: Took 0.119789 seconds to LoadMap(/Game/FirstPerson/Maps/Neumont3rdFloor)
+[2023.08.31-04.46.56:751][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-04.46.56:751][544]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor
+[2023.08.31-04.46.56:752][544]LogWorld: UWorld::CleanupWorld for Neumont3rdFloor, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-04.46.56:753][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-04.46.56:759][544]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.31-04.46.56:765][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-04.46.56:798][544]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-04.46.56:798][544]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2023.08.31-04.46.56:798][544]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.08.31-04.46.56:801][544]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.08.31-04.46.56:808][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-04.46.56:816][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.08.31-04.46.56:847][545]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.08.31-04.47.58:818][162]BlueprintLog: New page: Compile ABP_Manny
+[2023.08.31-04.47.58:890][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.08.31-04.47.58:913][162]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.31-04.47.59:036][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_Manny" FILE="../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Manny.uasset" SILENT=true
+[2023.08.31-04.47.59:065][162]LogSavePackage: Moving output files for package: /Game/ABP_Manny
+[2023.08.31-04.47.59:067][162]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/ABP_Manny66060BB34654EB8DD424548AF170C4AD.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Manny.uasset'
+[2023.08.31-04.47.59:110][162]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 2.11 sec)
+[2023.08.31-04.47.59:118][162]AssetCheck: New page: Asset Save: ABP_Manny
+[2023.08.31-04.47.59:118][162]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/ABP_Manny.ABP_Manny
+[2023.08.31-04.48.45:132][623]BlueprintLog: New page: Compile ABP_Manny
+[2023.08.31-04.48.45:215][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.08.31-04.48.45:250][623]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.31-04.48.45:342][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_Manny" FILE="../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Manny.uasset" SILENT=true
+[2023.08.31-04.48.45:371][623]LogSavePackage: Moving output files for package: /Game/ABP_Manny
+[2023.08.31-04.48.45:372][623]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/ABP_Manny14D9CF924AFD03BFF7B9CCB9B938CBC5.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Manny.uasset'
+[2023.08.31-04.48.45:393][623]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 2.26 sec)
+[2023.08.31-04.48.45:409][623]AssetCheck: New page: Asset Save: ABP_Manny
+[2023.08.31-04.48.45:409][623]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/ABP_Manny.ABP_Manny
+[2023.08.31-04.48.49:400][860]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.31-04.48.49:408][860]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.31-04.48.49:408][860]PIE: New page: PIE session: TitleScreen (Aug 30, 2023, 4:48:49 PM)
+[2023.08.31-04.48.49:409][860]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-04.48.49:410][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001113s)
+[2023.08.31-04.48.49:410][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/TitleScreen.TitleScreen to /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen (0.001170s)
+[2023.08.31-04.48.49:410][860]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.48.49:410][860]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-04.48.49:411][860]LogAIModule: Creating AISystem for world TitleScreen
+[2023.08.31-04.48.49:411][860]LogPlayLevel: PIE: World Init took: (0.001246s)
+[2023.08.31-04.48.49:447][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.08.31-04.48.49:451][860]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.08.31-04.48.49:451][860]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.31-04.48.49:451][860]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.31-04.48.49:451][860]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.31-04.48.49:451][860]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.31-04.48.49:451][860]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.31-04.48.49:451][860]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.31-04.48.49:451][860]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.31-04.48.49:451][860]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.31-04.48.49:451][860]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.31-04.48.49:451][860]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.31-04.48.49:451][860]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.31-04.48.49:454][860]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.31-04.48.49:523][860]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.08.31-04.48.49:524][860]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.31-04.48.49:524][860]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.31-04.48.49:524][860]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.31-04.48.49:525][860]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.08.31-04.48.49:525][860]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.08.31-04.48.49:527][860]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.08.31-04.48.49:528][860]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.08.31-04.48.49:528][860]LogInit: FAudioDevice initialized with ID 8.
+[2023.08.31-04.48.49:528][860]LogAudio: Display: Audio Device (ID: 8) registered with world 'TitleScreen'.
+[2023.08.31-04.48.49:528][860]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2023.08.31-04.48.49:532][860]LogLoad: Game class is 'TitleScreen_GameMode_C'
+[2023.08.31-04.48.49:533][860]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 0) at 2023.08.30-22.48.49
+[2023.08.31-04.48.49:533][860]LogWorld: Bringing up level for play took: 0.000440
+[2023.08.31-04.48.49:535][860]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2023.08.31-04.48.49:537][860]PIE: Server logged in
+[2023.08.31-04.48.49:538][860]PIE: Play in editor total start time 0.13 seconds.
+[2023.08.31-04.48.50:240][915]LogNet: Browse: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.31-04.48.50:240][915]LogLoad: LoadMap: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.31-04.48.50:240][915]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-04.48.50:241][915]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-04.48.50:241][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-04.48.50:302][915]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-04.48.50:306][915]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.08.31-04.48.50:338][915]LogAudio: Display: Audio Device (ID: 8) registered with world 'Neumont3rdFloor'.
+[2023.08.31-04.48.50:339][915]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.48.50:339][915]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-04.48.50:339][915]LogAIModule: Creating AISystem for world Neumont3rdFloor
+[2023.08.31-04.48.50:340][915]LogPlayLevel: PIE: World Init took: (0.001344s)
+[2023.08.31-04.48.50:340][915]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.08.31-04.48.50:358][915]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor.Neumont3rdFloor up for play (max tick rate 0) at 2023.08.30-22.48.50
+[2023.08.31-04.48.50:359][915]LogWorld: Bringing up level for play took: 0.018541
+[2023.08.31-04.48.50:364][915]LogLoad: Took 0.123480 seconds to LoadMap(/Game/FirstPerson/Maps/Neumont3rdFloor)
+[2023.08.31-04.49.05:101][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-04.49.05:101][300]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor
+[2023.08.31-04.49.05:101][300]LogWorld: UWorld::CleanupWorld for Neumont3rdFloor, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-04.49.05:103][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-04.49.05:108][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.31-04.49.05:115][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-04.49.05:149][300]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-04.49.05:149][300]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2023.08.31-04.49.05:149][300]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.08.31-04.49.05:152][300]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.08.31-04.49.05:158][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-04.49.05:165][300]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.08.31-04.49.05:196][301]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.08.31-04.50.26:280][967]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.31-04.50.26:288][967]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.31-04.50.26:288][967]PIE: New page: PIE session: TitleScreen (Aug 30, 2023, 4:50:26 PM)
+[2023.08.31-04.50.26:288][967]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-04.50.26:291][967]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001509s)
+[2023.08.31-04.50.26:291][967]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/TitleScreen.TitleScreen to /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen (0.001575s)
+[2023.08.31-04.50.26:291][967]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.50.26:291][967]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-04.50.26:291][967]LogAIModule: Creating AISystem for world TitleScreen
+[2023.08.31-04.50.26:291][967]LogPlayLevel: PIE: World Init took: (0.001365s)
+[2023.08.31-04.50.26:326][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.08.31-04.50.26:334][967]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.08.31-04.50.26:335][967]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.31-04.50.26:335][967]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.31-04.50.26:335][967]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.31-04.50.26:335][967]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.31-04.50.26:335][967]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.31-04.50.26:335][967]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.31-04.50.26:335][967]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.31-04.50.26:335][967]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.31-04.50.26:335][967]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.31-04.50.26:335][967]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.31-04.50.26:335][967]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.31-04.50.26:339][967]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.31-04.50.26:402][967]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.08.31-04.50.26:402][967]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.31-04.50.26:402][967]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.31-04.50.26:402][967]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.31-04.50.26:402][967]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.08.31-04.50.26:403][967]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.08.31-04.50.26:405][967]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.08.31-04.50.26:405][967]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.08.31-04.50.26:405][967]LogInit: FAudioDevice initialized with ID 9.
+[2023.08.31-04.50.26:405][967]LogAudio: Display: Audio Device (ID: 9) registered with world 'TitleScreen'.
+[2023.08.31-04.50.26:405][967]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2023.08.31-04.50.26:410][967]LogLoad: Game class is 'TitleScreen_GameMode_C'
+[2023.08.31-04.50.26:410][967]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 0) at 2023.08.30-22.50.26
+[2023.08.31-04.50.26:410][967]LogWorld: Bringing up level for play took: 0.000442
+[2023.08.31-04.50.26:414][967]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2023.08.31-04.50.26:417][967]PIE: Server logged in
+[2023.08.31-04.50.26:417][967]PIE: Play in editor total start time 0.129 seconds.
+[2023.08.31-04.50.27:124][ 26]LogNet: Browse: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.31-04.50.27:124][ 26]LogLoad: LoadMap: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.31-04.50.27:124][ 26]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-04.50.27:124][ 26]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-04.50.27:125][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-04.50.27:182][ 26]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-04.50.27:186][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.08.31-04.50.27:218][ 26]LogAudio: Display: Audio Device (ID: 9) registered with world 'Neumont3rdFloor'.
+[2023.08.31-04.50.27:218][ 26]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.50.27:218][ 26]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-04.50.27:219][ 26]LogAIModule: Creating AISystem for world Neumont3rdFloor
+[2023.08.31-04.50.27:219][ 26]LogPlayLevel: PIE: World Init took: (0.001344s)
+[2023.08.31-04.50.27:219][ 26]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.08.31-04.50.27:239][ 26]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor.Neumont3rdFloor up for play (max tick rate 0) at 2023.08.30-22.50.27
+[2023.08.31-04.50.27:240][ 26]LogWorld: Bringing up level for play took: 0.020468
+[2023.08.31-04.50.27:245][ 26]LogLoad: Took 0.121334 seconds to LoadMap(/Game/FirstPerson/Maps/Neumont3rdFloor)
+[2023.08.31-04.50.44:541][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-04.50.44:541][566]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor
+[2023.08.31-04.50.44:542][566]LogWorld: UWorld::CleanupWorld for Neumont3rdFloor, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-04.50.44:543][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-04.50.44:548][566]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.31-04.50.44:555][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-04.50.44:589][566]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-04.50.44:589][566]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2023.08.31-04.50.44:589][566]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.08.31-04.50.44:592][566]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.08.31-04.50.44:599][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-04.50.44:605][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.08.31-04.50.44:637][567]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.08.31-04.55.40:600][886]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.31-04.55.40:609][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.31-04.55.40:609][886]PIE: New page: PIE session: TitleScreen (Aug 30, 2023, 4:55:40 PM)
+[2023.08.31-04.55.40:641][886]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-04.55.40:642][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001520s)
+[2023.08.31-04.55.40:642][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/TitleScreen.TitleScreen to /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen (0.001581s)
+[2023.08.31-04.55.40:642][886]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.55.40:643][886]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-04.55.40:643][886]LogAIModule: Creating AISystem for world TitleScreen
+[2023.08.31-04.55.40:644][886]LogPlayLevel: PIE: World Init took: (0.001484s)
+[2023.08.31-04.55.40:680][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.08.31-04.55.40:692][886]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.08.31-04.55.40:692][886]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.31-04.55.40:692][886]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.31-04.55.40:692][886]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.31-04.55.40:692][886]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.31-04.55.40:692][886]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.31-04.55.40:692][886]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.31-04.55.40:692][886]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.31-04.55.40:692][886]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.31-04.55.40:693][886]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.31-04.55.40:693][886]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.31-04.55.40:693][886]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.31-04.55.40:697][886]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.31-04.55.40:759][886]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.08.31-04.55.40:760][886]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.31-04.55.40:760][886]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.31-04.55.40:760][886]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.31-04.55.40:761][886]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.08.31-04.55.40:762][886]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.08.31-04.55.40:763][886]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.08.31-04.55.40:763][886]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.08.31-04.55.40:763][886]LogInit: FAudioDevice initialized with ID 10.
+[2023.08.31-04.55.40:764][886]LogAudio: Display: Audio Device (ID: 10) registered with world 'TitleScreen'.
+[2023.08.31-04.55.40:764][886]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2023.08.31-04.55.40:769][886]LogLoad: Game class is 'TitleScreen_GameMode_C'
+[2023.08.31-04.55.40:769][886]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 0) at 2023.08.30-22.55.40
+[2023.08.31-04.55.40:769][886]LogWorld: Bringing up level for play took: 0.000525
+[2023.08.31-04.55.40:772][886]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2023.08.31-04.55.40:775][886]PIE: Server logged in
+[2023.08.31-04.55.40:776][886]PIE: Play in editor total start time 0.167 seconds.
+[2023.08.31-04.55.41:445][952]LogNet: Browse: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.31-04.55.41:445][952]LogLoad: LoadMap: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.31-04.55.41:445][952]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-04.55.41:446][952]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-04.55.41:446][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-04.55.41:503][952]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-04.55.41:506][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.08.31-04.55.41:539][952]LogAudio: Display: Audio Device (ID: 10) registered with world 'Neumont3rdFloor'.
+[2023.08.31-04.55.41:539][952]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.55.41:540][952]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-04.55.41:540][952]LogAIModule: Creating AISystem for world Neumont3rdFloor
+[2023.08.31-04.55.41:541][952]LogPlayLevel: PIE: World Init took: (0.001340s)
+[2023.08.31-04.55.41:541][952]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.08.31-04.55.41:558][952]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor.Neumont3rdFloor up for play (max tick rate 0) at 2023.08.30-22.55.41
+[2023.08.31-04.55.41:559][952]LogWorld: Bringing up level for play took: 0.018546
+[2023.08.31-04.55.41:566][952]LogLoad: Took 0.120628 seconds to LoadMap(/Game/FirstPerson/Maps/Neumont3rdFloor)
+[2023.08.31-04.56.02:651][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-04.56.02:651][ 22]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor
+[2023.08.31-04.56.02:651][ 22]LogWorld: UWorld::CleanupWorld for Neumont3rdFloor, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-04.56.02:653][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-04.56.02:658][ 22]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.31-04.56.02:664][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-04.56.02:698][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-04.56.02:698][ 22]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2023.08.31-04.56.02:698][ 22]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.08.31-04.56.02:701][ 22]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.08.31-04.56.02:713][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.08.31-04.56.02:745][ 23]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.08.31-04.56.40:675][995]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Game/Blueprints/ZombieBT.ZombieBT
+[2023.08.31-04.56.50:927][791]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/Blueprints/Tasks/BTTask_UpdateMovementSpeed.BTTask_UpdateMovementSpeed
+[2023.08.31-04.56.50:927][791]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-04.56.50:927][791]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-04.57.30:356][277]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2023.08.31-04.57.30:361][277]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/TitleScreen' took 0.048
+[2023.08.31-04.57.30:362][277]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BS_MF_Unarmed_WalkRun] ([1] browsable assets)...
+[2023.08.31-04.57.30:390][277]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/BS_MF_Unarmed_WalkRun.BS_MF_Unarmed_WalkRun]
+[2023.08.31-04.57.30:390][277]OBJ SavePackage: Finished generating thumbnails for package [/Game/BS_MF_Unarmed_WalkRun]
+[2023.08.31-04.57.30:393][277]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BS_MF_Unarmed_WalkRun_Auto3
+[2023.08.31-04.57.30:393][277]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/BS_MF_Unarmed_WalkRun_Auto3D1020BEE40AA8E3C8E34BF9DE916139D.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/Autosaves/Game/BS_MF_Unarmed_WalkRun_Auto3.uasset'
+[2023.08.31-04.57.30:394][277]LogFileHelpers: Auto-saving content packages took 0.033
+[2023.08.31-05.00.36:347][985]BlueprintLog: New page: Compile BTTask_UpdateMovementSpeed
+[2023.08.31-05.00.36:383][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.08.31-05.00.36:393][985]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.31-05.00.36:451][985]LogSavePackage: Moving output files for package: /Game/Game/Blueprints/Tasks/BTTask_UpdateMovementSpeed
+[2023.08.31-05.00.36:452][985]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/BTTask_UpdateMovementSpeed75BDB6484FFEC64092134EAC7A1ECA82.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/Game/Blueprints/Tasks/BTTask_UpdateMovementSpeed.uasset'
+[2023.08.31-05.00.36:471][985]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 2.34 sec)
+[2023.08.31-05.00.36:476][985]AssetCheck: New page: Asset Save: BTTask_UpdateMovementSpeed
+[2023.08.31-05.00.36:476][985]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Game/Blueprints/Tasks/BTTask_UpdateMovementSpeed.BTTask_UpdateMovementSpeed
+[2023.08.31-05.00.37:634][ 98]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.31-05.00.37:643][ 98]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.31-05.00.37:643][ 98]PIE: New page: PIE session: TitleScreen (Aug 30, 2023, 5:00:37 PM)
+[2023.08.31-05.00.37:643][ 98]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-05.00.37:644][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000767s)
+[2023.08.31-05.00.37:644][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/TitleScreen.TitleScreen to /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen (0.000807s)
+[2023.08.31-05.00.37:644][ 98]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-05.00.37:644][ 98]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-05.00.37:644][ 98]LogAIModule: Creating AISystem for world TitleScreen
+[2023.08.31-05.00.37:644][ 98]LogPlayLevel: PIE: World Init took: (0.000764s)
+[2023.08.31-05.00.37:668][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.08.31-05.00.37:669][ 98]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.08.31-05.00.37:669][ 98]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.31-05.00.37:669][ 98]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.31-05.00.37:669][ 98]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.31-05.00.37:669][ 98]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.31-05.00.37:669][ 98]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.31-05.00.37:669][ 98]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.31-05.00.37:670][ 98]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.31-05.00.37:670][ 98]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.31-05.00.37:670][ 98]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.31-05.00.37:670][ 98]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.31-05.00.37:670][ 98]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.31-05.00.37:672][ 98]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.31-05.00.37:712][ 98]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.08.31-05.00.37:713][ 98]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.31-05.00.37:713][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.31-05.00.37:713][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.31-05.00.37:714][ 98]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.08.31-05.00.37:714][ 98]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.08.31-05.00.37:715][ 98]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.08.31-05.00.37:715][ 98]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.08.31-05.00.37:715][ 98]LogInit: FAudioDevice initialized with ID 11.
+[2023.08.31-05.00.37:715][ 98]LogAudio: Display: Audio Device (ID: 11) registered with world 'TitleScreen'.
+[2023.08.31-05.00.37:715][ 98]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2023.08.31-05.00.37:719][ 98]LogLoad: Game class is 'TitleScreen_GameMode_C'
+[2023.08.31-05.00.37:719][ 98]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 0) at 2023.08.30-23.00.37
+[2023.08.31-05.00.37:719][ 98]LogWorld: Bringing up level for play took: 0.000282
+[2023.08.31-05.00.37:721][ 98]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2023.08.31-05.00.37:722][ 98]PIE: Server logged in
+[2023.08.31-05.00.37:723][ 98]PIE: Play in editor total start time 0.083 seconds.
+[2023.08.31-05.00.38:445][176]LogNet: Browse: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.31-05.00.38:445][176]LogLoad: LoadMap: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.31-05.00.38:445][176]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-05.00.38:445][176]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-05.00.38:445][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-05.00.38:501][176]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-05.00.38:503][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.08.31-05.00.38:522][176]LogAudio: Display: Audio Device (ID: 11) registered with world 'Neumont3rdFloor'.
+[2023.08.31-05.00.38:522][176]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-05.00.38:522][176]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-05.00.38:522][176]LogAIModule: Creating AISystem for world Neumont3rdFloor
+[2023.08.31-05.00.38:523][176]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2023.08.31-05.00.38:523][176]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.08.31-05.00.38:533][176]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor.Neumont3rdFloor up for play (max tick rate 0) at 2023.08.30-23.00.38
+[2023.08.31-05.00.38:533][176]LogWorld: Bringing up level for play took: 0.010321
+[2023.08.31-05.00.38:536][176]LogLoad: Took 0.091662 seconds to LoadMap(/Game/FirstPerson/Maps/Neumont3rdFloor)
+[2023.08.31-05.01.02:806][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-05.01.02:806][670]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor
+[2023.08.31-05.01.02:806][670]LogWorld: UWorld::CleanupWorld for Neumont3rdFloor, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-05.01.02:808][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-05.01.02:814][670]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.31-05.01.02:820][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-05.01.02:853][670]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-05.01.02:854][670]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2023.08.31-05.01.02:854][670]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.08.31-05.01.02:857][670]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.08.31-05.01.02:869][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-05.01.02:875][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.08.31-05.01.02:908][671]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.08.31-05.01.10:680][ 83]Cmd: TRANSACTION UNDO
+[2023.08.31-05.01.10:680][ 83]LogEditorTransaction: Undo Create Pin Link
+[2023.08.31-05.01.10:923][ 83]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.31-05.01.10:925][ 83]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.31-05.01.11:629][100]Cmd: TRANSACTION UNDO
+[2023.08.31-05.01.11:629][100]LogEditorTransaction: Undo Move Node
+[2023.08.31-05.01.11:847][100]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.31-05.01.11:849][100]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.31-05.01.12:279][112]Cmd: TRANSACTION UNDO
+[2023.08.31-05.01.12:279][112]LogEditorTransaction: Undo Create Pin Link
+[2023.08.31-05.01.12:491][112]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.31-05.01.12:493][112]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.31-05.01.12:954][125]Cmd: TRANSACTION UNDO
+[2023.08.31-05.01.12:954][125]LogEditorTransaction: Undo Create Pin Link
+[2023.08.31-05.01.13:163][125]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.31-05.01.13:166][125]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.31-05.01.13:570][136]Cmd: TRANSACTION UNDO
+[2023.08.31-05.01.13:570][136]LogEditorTransaction: Undo Add Node
+[2023.08.31-05.01.13:777][136]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.31-05.01.13:779][136]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.31-05.01.14:330][152]Cmd: TRANSACTION UNDO
+[2023.08.31-05.01.14:331][152]LogEditorTransaction: Undo Move Node
+[2023.08.31-05.01.14:550][152]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.31-05.01.14:552][152]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.31-05.01.15:057][168]Cmd: TRANSACTION UNDO
+[2023.08.31-05.01.15:057][168]LogEditorTransaction: Undo Break Pin Link
+[2023.08.31-05.01.15:272][168]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.31-05.01.15:274][168]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.31-05.01.15:829][180]Cmd: TRANSACTION UNDO
+[2023.08.31-05.01.15:829][180]LogEditorTransaction: Undo Move Node
+[2023.08.31-05.01.16:027][180]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.31-05.01.16:029][180]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.31-05.01.16:483][193]Cmd: TRANSACTION UNDO
+[2023.08.31-05.01.16:483][193]LogEditorTransaction: Undo Move Node
+[2023.08.31-05.01.16:702][193]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.31-05.01.16:704][193]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.31-05.01.17:248][209]Cmd: TRANSACTION UNDO
+[2023.08.31-05.01.17:248][209]LogEditorTransaction: Undo Break Pin Link
+[2023.08.31-05.01.17:463][209]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.31-05.01.17:465][209]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.31-05.01.17:977][224]Cmd: TRANSACTION UNDO
+[2023.08.31-05.01.17:977][224]LogEditorTransaction: Undo Break Pin Link
+[2023.08.31-05.01.18:193][224]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.31-05.01.18:195][224]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.31-05.01.18:761][241]Cmd: TRANSACTION UNDO
+[2023.08.31-05.01.18:761][241]LogEditorTransaction: Undo Break Pin Link
+[2023.08.31-05.01.18:993][241]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.31-05.01.18:995][241]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.31-05.01.20:652][324]BlueprintLog: New page: Compile BTTask_UpdateMovementSpeed
+[2023.08.31-05.01.20:709][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.08.31-05.01.20:722][324]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.31-05.01.20:799][324]LogSavePackage: Moving output files for package: /Game/Game/Blueprints/Tasks/BTTask_UpdateMovementSpeed
+[2023.08.31-05.01.20:799][324]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/BTTask_UpdateMovementSpeedAC68781645624BF656B3348EA43811BF.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/Game/Blueprints/Tasks/BTTask_UpdateMovementSpeed.uasset'
+[2023.08.31-05.01.20:839][324]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 2.45 sec)
+[2023.08.31-05.01.20:848][324]AssetCheck: New page: Asset Save: BTTask_UpdateMovementSpeed
+[2023.08.31-05.01.20:848][324]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Game/Blueprints/Tasks/BTTask_UpdateMovementSpeed.BTTask_UpdateMovementSpeed
+[2023.08.31-05.01.22:063][392]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.31-05.01.22:075][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.31-05.01.22:075][392]PIE: New page: PIE session: TitleScreen (Aug 30, 2023, 5:01:22 PM)
+[2023.08.31-05.01.22:101][392]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-05.01.22:102][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001278s)
+[2023.08.31-05.01.22:102][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/TitleScreen.TitleScreen to /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen (0.001342s)
+[2023.08.31-05.01.22:103][392]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-05.01.22:103][392]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-05.01.22:103][392]LogAIModule: Creating AISystem for world TitleScreen
+[2023.08.31-05.01.22:104][392]LogPlayLevel: PIE: World Init took: (0.001486s)
+[2023.08.31-05.01.22:139][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.08.31-05.01.22:141][392]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.08.31-05.01.22:141][392]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.31-05.01.22:141][392]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.31-05.01.22:141][392]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.31-05.01.22:142][392]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.31-05.01.22:142][392]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.31-05.01.22:142][392]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.31-05.01.22:142][392]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.31-05.01.22:142][392]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.31-05.01.22:142][392]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.31-05.01.22:142][392]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.31-05.01.22:142][392]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.31-05.01.22:146][392]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.31-05.01.22:207][392]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.08.31-05.01.22:208][392]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.31-05.01.22:208][392]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.31-05.01.22:208][392]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.31-05.01.22:210][392]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.08.31-05.01.22:210][392]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.08.31-05.01.22:211][392]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.08.31-05.01.22:211][392]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.08.31-05.01.22:212][392]LogInit: FAudioDevice initialized with ID 12.
+[2023.08.31-05.01.22:212][392]LogAudio: Display: Audio Device (ID: 12) registered with world 'TitleScreen'.
+[2023.08.31-05.01.22:212][392]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2023.08.31-05.01.22:216][392]LogLoad: Game class is 'TitleScreen_GameMode_C'
+[2023.08.31-05.01.22:217][392]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 0) at 2023.08.30-23.01.22
+[2023.08.31-05.01.22:217][392]LogWorld: Bringing up level for play took: 0.000443
+[2023.08.31-05.01.22:220][392]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2023.08.31-05.01.22:222][392]PIE: Server logged in
+[2023.08.31-05.01.22:223][392]PIE: Play in editor total start time 0.152 seconds.
+[2023.08.31-05.01.24:600][514]LogNet: Browse: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.31-05.01.24:600][514]LogLoad: LoadMap: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.31-05.01.24:600][514]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-05.01.24:600][514]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-05.01.24:601][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-05.01.24:631][514]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-05.01.24:634][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.08.31-05.01.24:663][514]LogAudio: Display: Audio Device (ID: 12) registered with world 'Neumont3rdFloor'.
+[2023.08.31-05.01.24:663][514]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-05.01.24:663][514]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-05.01.24:664][514]LogAIModule: Creating AISystem for world Neumont3rdFloor
+[2023.08.31-05.01.24:664][514]LogPlayLevel: PIE: World Init took: (0.001203s)
+[2023.08.31-05.01.24:664][514]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.08.31-05.01.24:679][514]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor.Neumont3rdFloor up for play (max tick rate 0) at 2023.08.30-23.01.24
+[2023.08.31-05.01.24:680][514]LogWorld: Bringing up level for play took: 0.016069
+[2023.08.31-05.01.24:685][514]LogLoad: Took 0.085211 seconds to LoadMap(/Game/FirstPerson/Maps/Neumont3rdFloor)
+[2023.08.31-05.01.40:736][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-05.01.40:736][654]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor
+[2023.08.31-05.01.40:736][654]LogWorld: UWorld::CleanupWorld for Neumont3rdFloor, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-05.01.40:738][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-05.01.40:743][654]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.31-05.01.40:749][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-05.01.40:785][654]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-05.01.40:785][654]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2023.08.31-05.01.40:785][654]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.08.31-05.01.40:788][654]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.08.31-05.01.40:795][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-05.01.40:803][654]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.08.31-05.01.40:835][655]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.08.31-05.02.39:985][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.31-05.02.40:116][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_Manny" FILE="../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Manny.uasset" SILENT=true
+[2023.08.31-05.02.40:145][592]LogSavePackage: Moving output files for package: /Game/ABP_Manny
+[2023.08.31-05.02.40:145][592]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/ABP_MannyB150E1B44A81A6E8BA2CFDA1E9FA6ACE.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/ABP_Manny.uasset'
+[2023.08.31-05.02.40:169][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 183 ms (total: 2.64 sec)
+[2023.08.31-05.02.40:177][592]AssetCheck: New page: Asset Save: ABP_Manny
+[2023.08.31-05.02.40:178][592]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/ABP_Manny.ABP_Manny
+[2023.08.31-05.02.41:618][671]BlueprintLog: New page: Compile ABP_Manny
+[2023.08.31-05.02.41:703][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.08.31-05.02.45:454][951]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.31-05.02.45:467][951]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.31-05.02.45:467][951]PIE: New page: PIE session: TitleScreen (Aug 30, 2023, 5:02:45 PM)
+[2023.08.31-05.02.45:491][951]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-05.02.45:492][951]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001110s)
+[2023.08.31-05.02.45:492][951]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/TitleScreen.TitleScreen to /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen (0.001169s)
+[2023.08.31-05.02.45:492][951]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-05.02.45:492][951]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-05.02.45:493][951]LogAIModule: Creating AISystem for world TitleScreen
+[2023.08.31-05.02.45:493][951]LogPlayLevel: PIE: World Init took: (0.001204s)
+[2023.08.31-05.02.45:529][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.08.31-05.02.45:532][951]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.08.31-05.02.45:532][951]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.31-05.02.45:532][951]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.31-05.02.45:532][951]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.31-05.02.45:532][951]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.31-05.02.45:532][951]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.31-05.02.45:532][951]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.31-05.02.45:532][951]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.31-05.02.45:532][951]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.31-05.02.45:533][951]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.31-05.02.45:533][951]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.31-05.02.45:533][951]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.31-05.02.45:536][951]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.31-05.02.45:599][951]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.08.31-05.02.45:600][951]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.31-05.02.45:600][951]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.31-05.02.45:600][951]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.31-05.02.45:601][951]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.08.31-05.02.45:601][951]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.08.31-05.02.45:603][951]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.08.31-05.02.45:603][951]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.08.31-05.02.45:604][951]LogInit: FAudioDevice initialized with ID 13.
+[2023.08.31-05.02.45:604][951]LogAudio: Display: Audio Device (ID: 13) registered with world 'TitleScreen'.
+[2023.08.31-05.02.45:604][951]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2023.08.31-05.02.45:608][951]LogLoad: Game class is 'TitleScreen_GameMode_C'
+[2023.08.31-05.02.45:608][951]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 0) at 2023.08.30-23.02.45
+[2023.08.31-05.02.45:609][951]LogWorld: Bringing up level for play took: 0.000509
+[2023.08.31-05.02.45:611][951]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2023.08.31-05.02.45:613][951]PIE: Server logged in
+[2023.08.31-05.02.45:614][951]PIE: Play in editor total start time 0.151 seconds.
+[2023.08.31-05.02.46:261][  0]LogNet: Browse: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.31-05.02.46:261][  0]LogLoad: LoadMap: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.31-05.02.46:261][  0]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-05.02.46:262][  0]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-05.02.46:262][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-05.02.46:324][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-05.02.46:327][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.08.31-05.02.46:359][  0]LogAudio: Display: Audio Device (ID: 13) registered with world 'Neumont3rdFloor'.
+[2023.08.31-05.02.46:359][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-05.02.46:359][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-05.02.46:360][  0]LogAIModule: Creating AISystem for world Neumont3rdFloor
+[2023.08.31-05.02.46:361][  0]LogPlayLevel: PIE: World Init took: (0.001283s)
+[2023.08.31-05.02.46:361][  0]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.08.31-05.02.46:377][  0]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor.Neumont3rdFloor up for play (max tick rate 0) at 2023.08.30-23.02.46
+[2023.08.31-05.02.46:378][  0]LogWorld: Bringing up level for play took: 0.017397
+[2023.08.31-05.02.46:383][  0]LogLoad: Took 0.121748 seconds to LoadMap(/Game/FirstPerson/Maps/Neumont3rdFloor)
+[2023.08.31-05.03.03:527][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-05.03.03:527][326]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor
+[2023.08.31-05.03.03:528][326]LogWorld: UWorld::CleanupWorld for Neumont3rdFloor, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-05.03.03:529][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-05.03.03:535][326]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.31-05.03.03:541][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-05.03.03:574][326]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-05.03.03:574][326]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2023.08.31-05.03.03:574][326]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.08.31-05.03.03:577][326]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.08.31-05.03.03:591][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-05.03.03:597][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.08.31-05.03.03:630][327]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.08.31-05.03.05:658][479]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.31-05.03.05:792][479]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.08.31-05.03.05:798][479]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/TitleScreen
+[2023.08.31-05.03.05:799][479]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/TitleScreen4FD00A984321D55ACDD9C59C9C1B61F6.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Maps/TitleScreen.umap'
+[2023.08.31-05.03.05:812][479]LogFileHelpers: Saving map 'TitleScreen' took 0.055
+[2023.08.31-05.03.05:831][479]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 2.81 sec)
+[2023.08.31-05.03.05:838][479]AssetCheck: New page: Asset Save: TitleScreen
+[2023.08.31-05.03.05:838][479]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/TitleScreen.TitleScreen
+[2023.08.31-05.03.06:008][487]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.31-05.03.06:156][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.08.31-05.03.06:161][487]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/TitleScreen
+[2023.08.31-05.03.06:161][487]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/TitleScreen20D70C674A976B7167107980A0153020.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Maps/TitleScreen.umap'
+[2023.08.31-05.03.06:174][487]LogFileHelpers: Saving map 'TitleScreen' took 0.052
+[2023.08.31-05.03.06:195][487]LogFileHelpers: InternalPromptForCheckoutAndSave took 187 ms (total: 3.00 sec)
+[2023.08.31-05.03.06:203][487]AssetCheck: New page: Asset Save: TitleScreen
+[2023.08.31-05.03.06:203][487]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/TitleScreen.TitleScreen
