@@ -5,6 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Maps/Neumont3rdFloor.umap",
+				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Materials/Gray.uasset",
+				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Materials/Yellow.uasset",
+				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Blueprints/BP_CeilingLamp.uasset",
+				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Audio/Ambience.uasset",
+				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Audio/Ambience_Cue.uasset",
+				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Materials/Textures/Maple2.uasset",
+				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Materials/Maple.uasset",
+				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/Game/Blueprints/ZombieCharacter.uasset",
 				"C:/Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Maps/Neumont3rdFloor.umap",
 				"C:/Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Maps/TitleScreen.umap",
@@ -75,17 +86,7 @@
 				"C:/Users/Dvallejo/Documents/Classes/Q5/Unity/UnrealFinal2ElectricBogallo/NeumontZombies/Content/Game/Models/Animation/Zombie_Attack__1__mixamo_com_Montage.uasset",
 				"C:/Users/Dvallejo/Documents/Classes/Q5/Unity/UnrealFinal2ElectricBogallo/NeumontZombies/Content/Game/Models/Animation/Zombie_Attack__1__mixamo_com.uasset",
 				"C:/Users/Dvallejo/Documents/Classes/Q5/Unity/UnrealFinal2ElectricBogallo/NeumontZombies/Content/Game/Models/Animation/Zombie_Attack__1__Take_001.uasset",
-				"C:/Users/Dvallejo/Documents/Classes/Q5/Unity/UnrealFinal2ElectricBogallo/NeumontZombies/Content/Game/Blueprints/Tasks/BTService_PlayerInRange.uasset",
-				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Maps/Neumont3rdFloor.umap",
-				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/StarterContent/Props/Materials/M_TableRound.uasset",
-				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/StarterContent/Props/Materials/M_Chair.uasset",
-				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Materials/Gray.uasset",
-				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Materials/Yellow.uasset",
-				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Blueprints/BP_CeilingLamp.uasset",
-				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Audio/Ambience.uasset",
-				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Audio/Ambience_Cue.uasset",
-				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Materials/Textures/Maple2.uasset",
-				"C:/Classes/Computer Science/Q8/Game Production and Presentation/Unreal/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Materials/Maple.uasset"
+				"C:/Users/Dvallejo/Documents/Classes/Q5/Unity/UnrealFinal2ElectricBogallo/NeumontZombies/Content/Game/Blueprints/Tasks/BTService_PlayerInRange.uasset"
 			]
 		}
 	]
