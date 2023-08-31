@@ -2758,3 +2758,647 @@ Script call stack:
 [2023.08.31-06.35.18:998][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.08.31-06.35.19:002][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
 [2023.08.31-06.35.19:044][430]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.08.31-06.38.46:104][310]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/UI/WinScreen_GameMode.WinScreen_GameMode
+[2023.08.31-06.38.46:105][310]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-06.38.46:105][310]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-06.39.04:974][211]BlueprintLog: New page: Compile WinScreen_GameMode
+[2023.08.31-06.39.05:023][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.08.31-06.39.05:037][211]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.31-06.39.05:104][211]LogSavePackage: Moving output files for package: /Game/Game/UI/WinScreen_GameMode
+[2023.08.31-06.39.05:105][211]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/WinScreen_GameModeC62CC7874BE55F30F6A810A08072D6DA.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/Game/UI/WinScreen_GameMode.uasset'
+[2023.08.31-06.39.05:142][211]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 1.98 sec)
+[2023.08.31-06.39.05:148][211]AssetCheck: New page: Asset Save: WinScreen_GameMode
+[2023.08.31-06.39.05:148][211]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Game/UI/WinScreen_GameMode.WinScreen_GameMode
+[2023.08.31-06.39.10:285][470]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/UI/TitleScreen_GameMode.TitleScreen_GameMode
+[2023.08.31-06.39.10:285][470]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-06.39.10:286][470]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-06.39.27:136][337]BlueprintLog: New page: Compile TitleScreen_GameMode
+[2023.08.31-06.39.27:172][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.08.31-06.39.27:181][337]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.31-06.39.27:235][337]LogSavePackage: Moving output files for package: /Game/Game/UI/TitleScreen_GameMode
+[2023.08.31-06.39.27:235][337]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/TitleScreen_GameMode4A745DE04AB8128592BBA3AE3AFED5D3.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/Game/UI/TitleScreen_GameMode.uasset'
+[2023.08.31-06.39.27:276][337]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 2.08 sec)
+[2023.08.31-06.39.27:281][337]AssetCheck: New page: Asset Save: TitleScreen_GameMode
+[2023.08.31-06.39.27:281][337]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Game/UI/TitleScreen_GameMode.TitleScreen_GameMode
+[2023.08.31-06.39.33:097][625]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/UI/GameOver_GameMode.GameOver_GameMode
+[2023.08.31-06.39.33:097][625]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-06.39.33:098][625]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-06.39.44:662][214]BlueprintLog: New page: Compile GameOver_GameMode
+[2023.08.31-06.39.44:707][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.08.31-06.39.44:720][214]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.31-06.39.44:789][214]LogSavePackage: Moving output files for package: /Game/Game/UI/GameOver_GameMode
+[2023.08.31-06.39.44:790][214]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/GameOver_GameMode60F353984DB0E862F24678950E8C86E0.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/Game/UI/GameOver_GameMode.uasset'
+[2023.08.31-06.39.44:827][214]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 2.19 sec)
+[2023.08.31-06.39.44:835][214]AssetCheck: New page: Asset Save: GameOver_GameMode
+[2023.08.31-06.39.44:835][214]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Game/UI/GameOver_GameMode.GameOver_GameMode
+[2023.08.31-06.39.46:425][290]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.31-06.39.46:433][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.31-06.39.46:433][290]PIE: New page: PIE session: Neumont3rdFloor (Aug 30, 2023, 6:39:46 PM)
+[2023.08.31-06.39.46:434][290]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor
+[2023.08.31-06.39.46:453][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019820s)
+[2023.08.31-06.39.46:454][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Neumont3rdFloor.Neumont3rdFloor to /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor.Neumont3rdFloor (0.019867s)
+[2023.08.31-06.39.46:454][290]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-06.39.46:454][290]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-06.39.46:454][290]LogAIModule: Creating AISystem for world Neumont3rdFloor
+[2023.08.31-06.39.46:455][290]LogPlayLevel: PIE: World Init took: (0.001295s)
+[2023.08.31-06.39.46:487][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.08.31-06.39.46:489][290]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.08.31-06.39.46:489][290]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.31-06.39.46:489][290]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.31-06.39.46:489][290]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.31-06.39.46:489][290]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.31-06.39.46:489][290]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.31-06.39.46:489][290]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.31-06.39.46:489][290]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.31-06.39.46:489][290]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.31-06.39.46:490][290]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.31-06.39.46:490][290]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.31-06.39.46:490][290]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.31-06.39.46:492][290]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.31-06.39.46:555][290]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.08.31-06.39.46:555][290]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.31-06.39.46:555][290]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.31-06.39.46:555][290]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.31-06.39.46:557][290]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.08.31-06.39.46:557][290]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.08.31-06.39.46:559][290]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.08.31-06.39.46:559][290]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.08.31-06.39.46:559][290]LogInit: FAudioDevice initialized with ID 16.
+[2023.08.31-06.39.46:559][290]LogAudio: Display: Audio Device (ID: 16) registered with world 'Neumont3rdFloor'.
+[2023.08.31-06.39.46:559][290]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2023.08.31-06.39.46:564][290]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.08.31-06.39.46:575][290]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor.Neumont3rdFloor up for play (max tick rate 60) at 2023.08.31-00.39.46
+[2023.08.31-06.39.46:576][290]LogWorld: Bringing up level for play took: 0.011668
+[2023.08.31-06.39.46:580][290]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2023.08.31-06.39.46:585][290]PIE: Server logged in
+[2023.08.31-06.39.46:586][290]PIE: Play in editor total start time 0.153 seconds.
+[2023.08.31-06.39.47:830][359]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.39.48:015][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-06.39.48:015][368]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor
+[2023.08.31-06.39.48:015][368]LogWorld: UWorld::CleanupWorld for Neumont3rdFloor, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-06.39.48:016][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-06.39.48:019][368]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.31-06.39.48:023][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-06.39.48:043][368]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-06.39.48:043][368]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2023.08.31-06.39.48:043][368]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.08.31-06.39.48:045][368]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.08.31-06.39.48:048][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-06.39.48:052][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.08.31-06.39.48:078][369]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.08.31-06.39.59:567][  2]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.31-06.39.59:701][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.08.31-06.39.59:736][  2]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.31-06.39.59:737][  2]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/Neumont3rdFloor6F2E4AFA428FA31C80CB2A998388DCD7.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Maps/Neumont3rdFloor.umap'
+[2023.08.31-06.39.59:747][  2]LogFileHelpers: Saving map 'Neumont3rdFloor' took 0.068
+[2023.08.31-06.39.59:766][  2]LogFileHelpers: InternalPromptForCheckoutAndSave took 197 ms (total: 2.38 sec)
+[2023.08.31-06.39.59:771][  2]AssetCheck: New page: Asset Save: Neumont3rdFloor
+[2023.08.31-06.39.59:771][  2]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/Neumont3rdFloor.Neumont3rdFloor
+[2023.08.31-06.40.05:335][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.31-06.40.05:335][199]PIE: New page: PIE session: Neumont3rdFloor (Aug 30, 2023, 6:40:05 PM)
+[2023.08.31-06.40.05:335][199]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor
+[2023.08.31-06.40.05:355][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019469s)
+[2023.08.31-06.40.05:355][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Neumont3rdFloor.Neumont3rdFloor to /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor.Neumont3rdFloor (0.019518s)
+[2023.08.31-06.40.05:355][199]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-06.40.05:355][199]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-06.40.05:356][199]LogAIModule: Creating AISystem for world Neumont3rdFloor
+[2023.08.31-06.40.05:356][199]LogPlayLevel: PIE: World Init took: (0.001263s)
+[2023.08.31-06.40.05:388][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.08.31-06.40.05:389][199]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.08.31-06.40.05:389][199]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.31-06.40.05:389][199]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.31-06.40.05:389][199]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.31-06.40.05:389][199]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.31-06.40.05:389][199]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.31-06.40.05:389][199]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.31-06.40.05:389][199]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.31-06.40.05:389][199]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.31-06.40.05:390][199]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.31-06.40.05:390][199]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.31-06.40.05:390][199]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.31-06.40.05:393][199]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.31-06.40.05:454][199]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.08.31-06.40.05:454][199]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.31-06.40.05:454][199]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.31-06.40.05:454][199]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.31-06.40.05:456][199]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.08.31-06.40.05:456][199]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.08.31-06.40.05:458][199]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.08.31-06.40.05:458][199]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.08.31-06.40.05:458][199]LogInit: FAudioDevice initialized with ID 17.
+[2023.08.31-06.40.05:458][199]LogAudio: Display: Audio Device (ID: 17) registered with world 'Neumont3rdFloor'.
+[2023.08.31-06.40.05:458][199]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2023.08.31-06.40.05:521][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-06.40.05:521][199]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.08.31-06.40.05:532][199]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor.Neumont3rdFloor up for play (max tick rate 60) at 2023.08.31-00.40.05
+[2023.08.31-06.40.05:533][199]LogWorld: Bringing up level for play took: 0.011393
+[2023.08.31-06.40.05:536][199]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2023.08.31-06.40.05:542][199]PIE: Server logged in
+[2023.08.31-06.40.05:543][199]PIE: Play in editor total start time 0.208 seconds.
+[2023.08.31-06.40.05:708][199]LogViewport: Scene viewport resized to 1286x760, mode Windowed.
+[2023.08.31-06.40.06:915][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-06.40.06:915][244]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor
+[2023.08.31-06.40.06:916][244]LogSlate: Window 'NeumontZombies Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.08.31-06.40.06:929][244]LogWorld: UWorld::CleanupWorld for Neumont3rdFloor, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-06.40.06:931][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-06.40.06:935][244]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.31-06.40.06:941][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-06.40.06:973][244]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-06.40.06:973][244]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2023.08.31-06.40.06:973][244]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.08.31-06.40.06:976][244]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.08.31-06.40.06:990][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.08.31-06.40.07:030][245]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.08.31-06.40.19:804][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.08.31-06.40.19:886][945]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-06.40.19:888][945]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/TitleScreen.TitleScreen
+[2023.08.31-06.40.19:888][945]Cmd: MAP LOAD FILE="../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Maps/TitleScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.08.31-06.40.19:888][945]LightingResults: New page: Lighting Build
+[2023.08.31-06.40.19:889][945]LoadErrors: New page: Loading map: TitleScreen.umap
+[2023.08.31-06.40.19:895][945]LogWorld: UWorld::CleanupWorld for Neumont3rdFloor, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-06.40.19:895][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-06.40.19:895][945]MapCheck: New page: Map Check
+[2023.08.31-06.40.19:895][945]LightingResults: New page: Lighting Build
+[2023.08.31-06.40.19:924][945]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-06.40.19:930][945]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.08.31-06.40.19:933][945]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-06.40.19:933][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-06.40.19:964][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.08.31-06.40.19:995][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.08.31-06.40.19:999][945]LogAudio: Display: Audio Device (ID: 1) registered with world 'TitleScreen'.
+[2023.08.31-06.40.19:999][945]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-06.40.19:999][945]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-06.40.19:999][945]LogAIModule: Creating AISystem for world TitleScreen
+[2023.08.31-06.40.20:001][945]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.08.31-06.40.20:034][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.08.31-06.40.20:039][945]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.08.31-06.40.20:040][945]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.187ms to complete.
+[2023.08.31-06.40.20:040][945]LogFileHelpers: Loading map 'TitleScreen' took 0.152
+[2023.08.31-06.40.21:329][ 12]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.08.31-06.40.21:335][ 12]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.31-06.40.21:335][ 12]PIE: New page: PIE session: TitleScreen (Aug 30, 2023, 6:40:21 PM)
+[2023.08.31-06.40.21:335][ 12]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-06.40.21:336][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000718s)
+[2023.08.31-06.40.21:336][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/TitleScreen.TitleScreen to /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen (0.000753s)
+[2023.08.31-06.40.21:336][ 12]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-06.40.21:336][ 12]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-06.40.21:337][ 12]LogAIModule: Creating AISystem for world TitleScreen
+[2023.08.31-06.40.21:337][ 12]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2023.08.31-06.40.21:359][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.08.31-06.40.21:360][ 12]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.08.31-06.40.21:360][ 12]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.31-06.40.21:360][ 12]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.31-06.40.21:360][ 12]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.31-06.40.21:360][ 12]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.31-06.40.21:360][ 12]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.31-06.40.21:360][ 12]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.31-06.40.21:360][ 12]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.31-06.40.21:360][ 12]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.31-06.40.21:361][ 12]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.31-06.40.21:361][ 12]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.31-06.40.21:361][ 12]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.31-06.40.21:363][ 12]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.31-06.40.21:406][ 12]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.08.31-06.40.21:406][ 12]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.31-06.40.21:406][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.31-06.40.21:407][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.31-06.40.21:407][ 12]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.08.31-06.40.21:407][ 12]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.08.31-06.40.21:409][ 12]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.08.31-06.40.21:409][ 12]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.08.31-06.40.21:409][ 12]LogInit: FAudioDevice initialized with ID 18.
+[2023.08.31-06.40.21:409][ 12]LogAudio: Display: Audio Device (ID: 18) registered with world 'TitleScreen'.
+[2023.08.31-06.40.21:409][ 12]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2023.08.31-06.40.21:465][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-06.40.21:465][ 12]LogLoad: Game class is 'TitleScreen_GameMode_C'
+[2023.08.31-06.40.21:466][ 12]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 60) at 2023.08.31-00.40.21
+[2023.08.31-06.40.21:466][ 12]LogWorld: Bringing up level for play took: 0.000386
+[2023.08.31-06.40.21:468][ 12]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2023.08.31-06.40.21:471][ 12]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.08.31-06.40.21:471][ 12]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.08.31-06.40.21:471][ 12]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.08.31-06.40.21:474][ 12]PIE: Server logged in
+[2023.08.31-06.40.21:475][ 12]PIE: Play in editor total start time 0.14 seconds.
+[2023.08.31-06.40.21:483][ 12]LogViewport: Scene viewport resized to 1289x780, mode Windowed.
+[2023.08.31-06.40.26:404][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-06.40.26:405][185]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-06.40.26:405][185]LogSlate: Window 'NeumontZombies Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.08.31-06.40.26:413][185]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-06.40.26:413][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-06.40.26:417][185]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.31-06.40.26:422][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-06.40.26:453][185]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2023.08.31-06.40.26:453][185]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.08.31-06.40.26:455][185]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.08.31-06.40.26:464][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.08.31-06.40.26:496][186]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.08.31-06.40.29:455][303]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.31-06.40.29:455][303]PIE: New page: PIE session: TitleScreen (Aug 30, 2023, 6:40:29 PM)
+[2023.08.31-06.40.29:455][303]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-06.40.29:456][303]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001093s)
+[2023.08.31-06.40.29:456][303]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/TitleScreen.TitleScreen to /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen (0.001136s)
+[2023.08.31-06.40.29:456][303]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-06.40.29:456][303]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-06.40.29:457][303]LogAIModule: Creating AISystem for world TitleScreen
+[2023.08.31-06.40.29:457][303]LogPlayLevel: PIE: World Init took: (0.001180s)
+[2023.08.31-06.40.29:487][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.08.31-06.40.29:488][303]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.08.31-06.40.29:488][303]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.31-06.40.29:488][303]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.31-06.40.29:488][303]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.31-06.40.29:488][303]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.31-06.40.29:488][303]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.31-06.40.29:488][303]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.31-06.40.29:489][303]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.31-06.40.29:489][303]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.31-06.40.29:489][303]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.31-06.40.29:489][303]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.31-06.40.29:489][303]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.31-06.40.29:492][303]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.31-06.40.29:568][303]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.08.31-06.40.29:568][303]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.31-06.40.29:568][303]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.31-06.40.29:568][303]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.31-06.40.29:569][303]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.08.31-06.40.29:569][303]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2023.08.31-06.40.29:572][303]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.08.31-06.40.29:572][303]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.08.31-06.40.29:572][303]LogInit: FAudioDevice initialized with ID 19.
+[2023.08.31-06.40.29:572][303]LogAudio: Display: Audio Device (ID: 19) registered with world 'TitleScreen'.
+[2023.08.31-06.40.29:572][303]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2023.08.31-06.40.29:577][303]LogLoad: Game class is 'TitleScreen_GameMode_C'
+[2023.08.31-06.40.29:577][303]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 60) at 2023.08.31-00.40.29
+[2023.08.31-06.40.29:577][303]LogWorld: Bringing up level for play took: 0.000466
+[2023.08.31-06.40.29:580][303]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2023.08.31-06.40.29:582][303]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.08.31-06.40.29:582][303]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.08.31-06.40.29:582][303]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.08.31-06.40.29:582][303]PIE: Server logged in
+[2023.08.31-06.40.29:583][303]PIE: Play in editor total start time 0.128 seconds.
+[2023.08.31-06.40.31:058][381]LogNet: Browse: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.31-06.40.31:058][381]LogLoad: LoadMap: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.31-06.40.31:058][381]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-06.40.31:059][381]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-06.40.31:059][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-06.40.31:114][381]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-06.40.31:116][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.08.31-06.40.31:158][381]LogAudio: Display: Audio Device (ID: 19) registered with world 'Neumont3rdFloor'.
+[2023.08.31-06.40.31:158][381]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-06.40.31:158][381]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-06.40.31:159][381]LogAIModule: Creating AISystem for world Neumont3rdFloor
+[2023.08.31-06.40.31:159][381]LogPlayLevel: PIE: World Init took: (0.001281s)
+[2023.08.31-06.40.31:159][381]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.08.31-06.40.31:178][381]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor.Neumont3rdFloor up for play (max tick rate 60) at 2023.08.31-00.40.31
+[2023.08.31-06.40.31:179][381]LogWorld: Bringing up level for play took: 0.019793
+[2023.08.31-06.40.31:184][381]LogLoad: Took 0.124896 seconds to LoadMap(/Game/FirstPerson/Maps/Neumont3rdFloor)
+[2023.08.31-06.40.32:467][451]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.40.32:867][475]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.40.33:466][511]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=-30.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.40.33:666][523]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.40.34:066][547]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1210.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.40.34:266][559]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1210.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.40.34:466][571]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=-30.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.40.34:666][583]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1210.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.40.34:867][595]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.40.34:881][596]LogCharacterMovement: ZombieCharacter_C_11 is stuck and failed to move! Velocity: X=37.95 Y=-16.87 Z=0.00 Location: X=-352.28 Y=-544.33 Z=122.78 Normal: X=-0.95 Y=-0.31 Z=0.07 PenetrationDepth:0.000 Actor:StaticMeshActor_85 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2023.08.31-06.40.35:066][607]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=-30.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.40.35:467][631]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.40.35:866][655]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.40.36:067][667]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.40.36:467][691]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1210.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.40.36:867][715]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-370.000 Y=-610.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.40.37:066][727]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1210.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.40.37:667][763]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-370.000 Y=-610.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.40.37:867][775]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1210.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.40.38:074][782]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-370.000 Y=-610.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.40.38:274][794]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1210.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.40.38:474][806]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.40.39:274][854]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=-30.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.40.39:470][864]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1210.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.40.39:670][876]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=-30.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.40.39:955][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-06.40.39:955][891]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor
+[2023.08.31-06.40.39:956][891]LogWorld: UWorld::CleanupWorld for Neumont3rdFloor, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-06.40.39:957][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-06.40.39:960][891]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.31-06.40.39:964][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-06.40.39:983][891]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-06.40.39:983][891]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2023.08.31-06.40.39:983][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.08.31-06.40.39:985][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.08.31-06.40.39:988][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-06.40.40:001][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.08.31-06.40.40:028][893]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.08.31-06.42.08:153][  6]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.08.31-06.42.08:153][  6]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-06.42.08:153][  6]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-06.42.23:502][846]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.08.31-06.42.23:637][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.08.31-06.42.23:695][846]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.31-06.42.23:808][846]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.08.31-06.42.23:809][846]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/BP_FirstPersonCharacterC2D89A2A4C4035EF65110CBF1A60CC31.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.08.31-06.42.23:832][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 2.52 sec)
+[2023.08.31-06.42.23:840][846]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.08.31-06.42.23:840][846]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.08.31-06.42.25:421][920]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.31-06.42.25:429][920]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.31-06.42.25:429][920]PIE: New page: PIE session: TitleScreen (Aug 30, 2023, 6:42:25 PM)
+[2023.08.31-06.42.25:430][920]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-06.42.25:431][920]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001001s)
+[2023.08.31-06.42.25:431][920]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/TitleScreen.TitleScreen to /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen (0.001049s)
+[2023.08.31-06.42.25:431][920]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-06.42.25:431][920]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-06.42.25:431][920]LogAIModule: Creating AISystem for world TitleScreen
+[2023.08.31-06.42.25:432][920]LogPlayLevel: PIE: World Init took: (0.001129s)
+[2023.08.31-06.42.25:465][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.08.31-06.42.25:468][920]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.08.31-06.42.25:468][920]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.31-06.42.25:468][920]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.31-06.42.25:468][920]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.31-06.42.25:468][920]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.31-06.42.25:468][920]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.31-06.42.25:468][920]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.31-06.42.25:468][920]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.31-06.42.25:468][920]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.31-06.42.25:468][920]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.31-06.42.25:468][920]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.31-06.42.25:468][920]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.31-06.42.25:471][920]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.31-06.42.25:530][920]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.08.31-06.42.25:531][920]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.31-06.42.25:531][920]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.31-06.42.25:531][920]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.31-06.42.25:531][920]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.08.31-06.42.25:531][920]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.08.31-06.42.25:533][920]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.08.31-06.42.25:533][920]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.08.31-06.42.25:533][920]LogInit: FAudioDevice initialized with ID 20.
+[2023.08.31-06.42.25:533][920]LogAudio: Display: Audio Device (ID: 20) registered with world 'TitleScreen'.
+[2023.08.31-06.42.25:533][920]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2023.08.31-06.42.25:538][920]LogLoad: Game class is 'TitleScreen_GameMode_C'
+[2023.08.31-06.42.25:538][920]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 60) at 2023.08.31-00.42.25
+[2023.08.31-06.42.25:539][920]LogWorld: Bringing up level for play took: 0.000376
+[2023.08.31-06.42.25:541][920]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2023.08.31-06.42.25:543][920]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.08.31-06.42.25:543][920]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.08.31-06.42.25:543][920]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.08.31-06.42.25:543][920]PIE: Server logged in
+[2023.08.31-06.42.25:544][920]PIE: Play in editor total start time 0.115 seconds.
+[2023.08.31-06.42.26:176][955]LogNet: Browse: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.31-06.42.26:176][955]LogLoad: LoadMap: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.31-06.42.26:176][955]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-06.42.26:177][955]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-06.42.26:177][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-06.42.26:203][955]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-06.42.26:206][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.08.31-06.42.26:243][955]LogAudio: Display: Audio Device (ID: 20) registered with world 'Neumont3rdFloor'.
+[2023.08.31-06.42.26:243][955]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-06.42.26:243][955]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-06.42.26:244][955]LogAIModule: Creating AISystem for world Neumont3rdFloor
+[2023.08.31-06.42.26:244][955]LogPlayLevel: PIE: World Init took: (0.001199s)
+[2023.08.31-06.42.26:244][955]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.08.31-06.42.26:259][955]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor.Neumont3rdFloor up for play (max tick rate 60) at 2023.08.31-00.42.26
+[2023.08.31-06.42.26:260][955]LogWorld: Bringing up level for play took: 0.015827
+[2023.08.31-06.42.26:264][955]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.08.31-06.42.26:264][955]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.08.31-06.42.26:264][955]LogLoad: Took 0.088296 seconds to LoadMap(/Game/FirstPerson/Maps/Neumont3rdFloor)
+[2023.08.31-06.42.27:786][ 40]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=-30.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.27:986][ 52]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.28:186][ 64]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1210.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.28:385][ 76]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.28:786][100]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=-30.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.28:986][112]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=-30.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.29:786][160]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=-30.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.29:986][172]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.30:386][196]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1210.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.30:586][208]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.30:786][220]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.30:986][232]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.31:386][256]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1210.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.31:786][280]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.31:986][292]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-370.000 Y=-610.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.32:386][316]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.32:586][328]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.32:786][340]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.33:183][364]LogCharacterMovement: ZombieCharacter_C_15 is stuck and failed to move! Velocity: X=0.82 Y=-0.36 Z=0.00 Location: X=-349.41 Y=-555.57 Z=122.65 Normal: X=-0.93 Y=-0.36 Z=0.00 PenetrationDepth:0.000 Actor:StaticMeshActor_85 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2023.08.31-06.42.33:986][412]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-370.000 Y=-610.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.34:386][436]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-370.000 Y=-610.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.34:586][448]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-370.000 Y=-610.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.34:786][460]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.34:986][472]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.35:187][484]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=-30.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.35:587][508]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1210.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.35:787][520]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.35:987][532]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=-30.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.36:387][556]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=-30.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.36:787][580]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.36:987][592]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-370.000 Y=-610.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.37:386][616]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-370.000 Y=-610.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.37:586][628]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.37:787][640]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1210.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.37:987][652]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.38:187][664]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.38:987][712]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.39:188][724]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1210.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.39:388][736]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-370.000 Y=-610.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.40:187][784]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.40:387][796]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.40:588][808]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.40:788][820]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.40:988][832]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-370.000 Y=-610.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.41:388][856]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=-30.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.41:788][880]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=-30.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.41:988][892]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.42:187][904]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-370.000 Y=-610.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.42:387][916]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.42:587][928]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.42:787][940]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.42:987][952]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.43:387][976]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-370.000 Y=-610.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.43:588][988]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.43:787][  0]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.44:388][ 36]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.44:588][ 48]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.44:788][ 60]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-370.000 Y=-610.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.45:181][ 83]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.45:782][119]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1210.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.45:981][131]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.46:383][155]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.46:583][167]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.46:986][191]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-370.000 Y=-610.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.47:586][227]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=-30.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.47:785][239]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=-30.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.47:986][251]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.48:188][263]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=-30.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.48:397][275]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.48:632][289]LogNet: Browse: /Game/FirstPerson/Maps/WinScreen
+[2023.08.31-06.42.48:632][289]LogLoad: LoadMap: /Game/FirstPerson/Maps/WinScreen
+[2023.08.31-06.42.48:632][289]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor
+[2023.08.31-06.42.48:635][289]LogWorld: UWorld::CleanupWorld for Neumont3rdFloor, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-06.42.48:637][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-06.42.48:707][289]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-06.42.48:719][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.08.31-06.42.48:726][289]LogAudio: Display: Audio Device (ID: 20) registered with world 'WinScreen'.
+[2023.08.31-06.42.48:726][289]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-06.42.48:726][289]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-06.42.48:727][289]LogAIModule: Creating AISystem for world WinScreen
+[2023.08.31-06.42.48:727][289]LogPlayLevel: PIE: World Init took: (0.001159s)
+[2023.08.31-06.42.48:727][289]LogLoad: Game class is 'WinScreen_GameMode_C'
+[2023.08.31-06.42.48:728][289]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_WinScreen.WinScreen up for play (max tick rate 60) at 2023.08.31-00.42.48
+[2023.08.31-06.42.48:728][289]LogWorld: Bringing up level for play took: 0.000592
+[2023.08.31-06.42.48:728][289]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.08.31-06.42.48:730][289]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.08.31-06.42.48:730][289]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.08.31-06.42.48:730][289]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.08.31-06.42.48:730][289]LogLoad: Took 0.098366 seconds to LoadMap(/Game/FirstPerson/Maps/WinScreen)
+[2023.08.31-06.42.49:954][360]LogNet: Browse: /Game/FirstPerson/Maps/TitleScreen
+[2023.08.31-06.42.49:954][360]LogLoad: LoadMap: /Game/FirstPerson/Maps/TitleScreen
+[2023.08.31-06.42.49:954][360]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_WinScreen
+[2023.08.31-06.42.49:954][360]LogWorld: UWorld::CleanupWorld for WinScreen, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-06.42.49:954][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-06.42.49:985][360]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-06.42.49:988][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.08.31-06.42.49:990][360]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-06.42.49:991][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001213s)
+[2023.08.31-06.42.49:991][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/TitleScreen.TitleScreen to /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen (0.001295s)
+[2023.08.31-06.42.49:991][360]LogAudio: Display: Audio Device (ID: 20) registered with world 'TitleScreen'.
+[2023.08.31-06.42.49:991][360]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-06.42.49:991][360]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-06.42.49:992][360]LogAIModule: Creating AISystem for world TitleScreen
+[2023.08.31-06.42.49:992][360]LogPlayLevel: PIE: World Init took: (0.001155s)
+[2023.08.31-06.42.49:992][360]LogLoad: Game class is 'TitleScreen_GameMode_C'
+[2023.08.31-06.42.49:993][360]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 60) at 2023.08.31-00.42.49
+[2023.08.31-06.42.49:993][360]LogWorld: Bringing up level for play took: 0.000340
+[2023.08.31-06.42.49:993][360]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.08.31-06.42.49:995][360]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.08.31-06.42.49:995][360]LogLoad: Took 0.041253 seconds to LoadMap(/Game/FirstPerson/Maps/UEDPIE_0_TitleScreen)
+[2023.08.31-06.42.51:362][438]LogNet: Browse: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.31-06.42.51:362][438]LogLoad: LoadMap: /Game/FirstPerson/Maps/Neumont3rdFloor
+[2023.08.31-06.42.51:362][438]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-06.42.51:363][438]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-06.42.51:363][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-06.42.51:414][438]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-06.42.51:415][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.08.31-06.42.51:457][438]LogAudio: Display: Audio Device (ID: 20) registered with world 'Neumont3rdFloor'.
+[2023.08.31-06.42.51:457][438]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-06.42.51:457][438]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-06.42.51:458][438]LogAIModule: Creating AISystem for world Neumont3rdFloor
+[2023.08.31-06.42.51:458][438]LogPlayLevel: PIE: World Init took: (0.001287s)
+[2023.08.31-06.42.51:458][438]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.08.31-06.42.51:475][438]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor.Neumont3rdFloor up for play (max tick rate 60) at 2023.08.31-00.42.51
+[2023.08.31-06.42.51:476][438]LogWorld: Bringing up level for play took: 0.017560
+[2023.08.31-06.42.51:481][438]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.08.31-06.42.51:481][438]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.08.31-06.42.51:481][438]LogLoad: Took 0.118275 seconds to LoadMap(/Game/FirstPerson/Maps/Neumont3rdFloor)
+[2023.08.31-06.42.52:182][472]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1210.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.52:566][493]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1210.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.52:802][506]LogCharacterMovement: ZombieCharacter_C_3 is stuck and failed to move! Velocity: X=0.27 Y=-7.85 Z=0.00 Location: X=1278.06 Y=2119.96 Z=122.78 Normal: X=-0.98 Y=0.20 Z=-0.00 PenetrationDepth:0.001 Actor:StaticMeshActor_178 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2023.08.31-06.42.53:567][547]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=-30.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.53:771][558]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-370.000 Y=-610.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.53:977][569]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.54:184][580]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-370.000 Y=-610.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.54:372][590]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-370.000 Y=-610.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.54:579][601]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-370.000 Y=-610.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.55:376][643]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1210.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.55:567][653]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-370.000 Y=-610.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.55:970][674]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1210.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.56:180][685]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1210.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.56:373][695]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.56:586][706]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.56:975][726]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.57:383][747]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.57:581][757]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.57:774][767]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.57:969][777]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=-30.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.58:383][798]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.58:778][818]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-370.000 Y=-610.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.59:373][848]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=-30.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.59:771][868]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.42.59:970][878]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-370.000 Y=-610.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.43.00:370][898]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=-30.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.43.00:572][908]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=-30.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.43.00:772][918]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=-30.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.43.00:974][928]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-370.000 Y=-610.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.43.01:377][948]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.43.01:579][958]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.43.01:983][978]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1210.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.43.02:777][ 17]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.43.02:982][ 27]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.43.03:185][ 37]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-370.000 Y=-610.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.43.03:369][ 46]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1210.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.43.03:575][ 56]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.43.03:985][ 76]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.43.04:376][ 95]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1210.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.43.04:975][124]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.43.05:181][134]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.43.05:388][144]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.43.05:575][153]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.43.05:989][173]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.43.06:177][182]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1210.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.43.06:384][192]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1210.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.43.06:989][221]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.43.07:785][259]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1180.000 Y=-460.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.43.08:392][288]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-370.000 Y=-610.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.43.08:791][307]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=950.000 Y=2120.000 Z=120.000] for [ZombieCharacter_C]
+[2023.08.31-06.43.08:887][312]LogNet: Browse: /Game/FirstPerson/Maps/GameOver
+[2023.08.31-06.43.08:887][312]LogLoad: LoadMap: /Game/FirstPerson/Maps/GameOver
+[2023.08.31-06.43.08:887][312]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Neumont3rdFloor
+[2023.08.31-06.43.08:890][312]LogWorld: UWorld::CleanupWorld for Neumont3rdFloor, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-06.43.08:893][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-06.43.08:960][312]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-06.43.08:973][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.08.31-06.43.08:981][312]LogAudio: Display: Audio Device (ID: 20) registered with world 'GameOver'.
+[2023.08.31-06.43.08:981][312]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-06.43.08:981][312]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-06.43.08:982][312]LogAIModule: Creating AISystem for world GameOver
+[2023.08.31-06.43.08:982][312]LogPlayLevel: PIE: World Init took: (0.001133s)
+[2023.08.31-06.43.08:982][312]LogLoad: Game class is 'GameOver_GameMode_C'
+[2023.08.31-06.43.08:983][312]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_GameOver.GameOver up for play (max tick rate 60) at 2023.08.31-00.43.08
+[2023.08.31-06.43.08:983][312]LogWorld: Bringing up level for play took: 0.000571
+[2023.08.31-06.43.08:983][312]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.08.31-06.43.08:985][312]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.08.31-06.43.08:985][312]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.08.31-06.43.08:985][312]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.08.31-06.43.08:985][312]LogLoad: Took 0.097915 seconds to LoadMap(/Game/FirstPerson/Maps/GameOver)
+[2023.08.31-06.43.10:205][372]LogNet: Browse: /Game/FirstPerson/Maps/TitleScreen
+[2023.08.31-06.43.10:206][372]LogLoad: LoadMap: /Game/FirstPerson/Maps/TitleScreen
+[2023.08.31-06.43.10:206][372]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_GameOver
+[2023.08.31-06.43.10:206][372]LogWorld: UWorld::CleanupWorld for GameOver, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-06.43.10:206][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-06.43.10:274][372]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.31-06.43.10:276][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.08.31-06.43.10:279][372]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-06.43.10:280][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001071s)
+[2023.08.31-06.43.10:280][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/TitleScreen.TitleScreen to /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen (0.001130s)
+[2023.08.31-06.43.10:280][372]LogAudio: Display: Audio Device (ID: 20) registered with world 'TitleScreen'.
+[2023.08.31-06.43.10:280][372]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.31-06.43.10:281][372]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.31-06.43.10:281][372]LogAIModule: Creating AISystem for world TitleScreen
+[2023.08.31-06.43.10:281][372]LogPlayLevel: PIE: World Init took: (0.001043s)
+[2023.08.31-06.43.10:281][372]LogLoad: Game class is 'TitleScreen_GameMode_C'
+[2023.08.31-06.43.10:282][372]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 60) at 2023.08.31-00.43.10
+[2023.08.31-06.43.10:282][372]LogWorld: Bringing up level for play took: 0.000395
+[2023.08.31-06.43.10:282][372]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.08.31-06.43.10:284][372]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.08.31-06.43.10:284][372]LogLoad: Took 0.078602 seconds to LoadMap(/Game/FirstPerson/Maps/UEDPIE_0_TitleScreen)
+[2023.08.31-06.43.13:039][506]Cmd: quit
+[2023.08.31-06.43.13:040][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-06.43.13:040][506]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_TitleScreen
+[2023.08.31-06.43.13:040][506]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2023.08.31-06.43.13:040][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-06.43.13:082][506]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.31-06.43.13:088][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.31-06.43.13:117][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.31-06.43.13:117][506]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2023.08.31-06.43.13:117][506]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.08.31-06.43.13:119][506]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.08.31-06.43.13:128][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.08.31-06.43.13:173][507]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.08.31-06.43.14:784][586]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.31-06.43.14:951][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.08.31-06.43.14:956][586]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/TitleScreen
+[2023.08.31-06.43.14:956][586]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Saved/TitleScreen7256A86C40157538D827EC9FC7102F67.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/UnrealFinal2ElectricBogallo/NeumontZombies/Content/FirstPerson/Maps/TitleScreen.umap'
+[2023.08.31-06.43.14:969][586]LogFileHelpers: Saving map 'TitleScreen' took 0.050
+[2023.08.31-06.43.14:994][586]LogFileHelpers: InternalPromptForCheckoutAndSave took 209 ms (total: 2.73 sec)
+[2023.08.31-06.43.15:002][586]AssetCheck: New page: Asset Save: TitleScreen
+[2023.08.31-06.43.15:002][586]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/TitleScreen.TitleScreen
